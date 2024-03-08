@@ -1,4 +1,4 @@
-** Gestion de Crise lors du Développement et du Déploiement d'Applications**
+**Gestion de Crise lors du Développement et du Déploiement d'Applications**
 
 **A. Outils de Détection des Anomalies et des Intrusions**
    1. **Outils de Monitoring en Temps Réel :** Utilisation de solutions telles que Prometheus, Grafana, ou ELK Stack pour surveiller les performances et détecter les anomalies.
