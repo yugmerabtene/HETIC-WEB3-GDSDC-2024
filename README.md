@@ -1,4 +1,4 @@
-**Gestion de Crise lors du Développement et du Déploiement d'Applications**
+** Gestion de Crise lors du Développement et du Déploiement d'Applications**
 
 **A. Outils de Détection des Anomalies et des Intrusions**
    1. **Outils de Monitoring en Temps Réel :** Utilisation de solutions telles que Prometheus, Grafana, ou ELK Stack pour surveiller les performances et détecter les anomalies.
@@ -40,7 +40,11 @@
 **H. Dette Technique, Versioning, et Refactoring**
    - Gestion proactive de la dette technique pour minimiser l'accumulation de défauts. Utilisation de systèmes de versioning (comme Git) pour le contrôle de code source. Pratique régulière du refactoring pour améliorer la qualité du code.
 
-**I. Prochaines Étapes**
-   - Intégration continue de l'équipe de développement dans le processus décisionnel.
-   - Maintenance régulière du code.
+**I. Design Pattern, Clean Code, Scalabilité**
+   - Application de Design Patterns pour résoudre des problèmes récurrents de conception. Adoption des principes du Clean Code pour améliorer la lisibilité et la maintenabilité du code. Prise en compte de la scalabilité pour assurer la performance du système face à une croissance de charge.
 
+**J. Prochaines Étapes**
+   - Intégration continue de l'équipe de
+
+ développement dans le processus décisionnel.
+   - Maintenance régulière du code.
