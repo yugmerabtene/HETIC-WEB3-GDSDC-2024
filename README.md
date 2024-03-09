@@ -41,7 +41,7 @@
    - Gestion proactive de la dette technique pour minimiser l'accumulation de défauts. Utilisation de systèmes de versioning (comme Git) pour le contrôle de code source. Pratique régulière du refactoring pour améliorer la qualité du code.
 
 **I. Design Pattern, Clean Code, Scalabilité**
-   - Application de Design Patterns pour résoudre des problèmes récurrents de conception. Adoption des principes du Clean Code pour améliorer la lisibilité et la maintenabilité du code. Prise en compte de la scalabilité pour assurer la performance du système face à une croissance de charge.
+   - SOLID principle, Application de Design Patterns pour résoudre des problèmes récurrents de conception. Adoption des principes du Clean Code pour améliorer la lisibilité et la maintenabilité du code. Prise en compte de la scalabilité pour assurer la performance du système face à une croissance de charge.
 
 **J. Prochaines Étapes**
    - Intégration continue de l'équipe de
