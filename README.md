@@ -1,5 +1,3 @@
-Je m'excuse pour la confusion. Voici le texte avec des icônes uniquement sur les titres des modules :
-
 **Module 1: Gestion de Projet Agile Scrum**
 
 1. **Intégration de l'Équipe de Développement dans le Processus Décisionnel :**
