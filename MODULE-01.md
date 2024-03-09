@@ -33,7 +33,7 @@
         Les logiciels malveillants représentent la principale source de crises informatiques. On recense 11 types majeurs de malwares, chacun infectant les ordinateurs ou autres dispositifs informatiques de différentes manières. Ces incluent le virus, le ver, le wabbit, le cheval de Troie, la porte dérobée, le logiciel espion, l'enregistreur de frappe, l'exploit, le rootkit, le facticiel, le piégeage de logiciel, la bombe, et le publiciel (adware).
 
     2.2 **Les attaques numériques par messagerie**
-        Les programmes malveillants peuvent également se propager par le biais de courriers électroniques. Des attaques spécifiques ciblant les messageries électroniques incluent le pourriel (spam), l'hameçonnage (phishing) et le canular informatique (hoax).
+        Les programmes malveillants peuvent également se propager par le biais de courriers électroniques. Des attaques spécifiques ciblant les messageries électroniques incluent le pourriel (spam), l'hameçonnage (phishing).
 
     2.3 **Les attaques sur les réseaux**
         Les hackers exploitent les réseaux informatiques pour porter atteinte à des entités. Les cyberattaques via les réseaux incluent le sniffing, la mystification (spoofing), le brouillage (obfuscation) et le déni de service (DoS).
