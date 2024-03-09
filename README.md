@@ -1,4 +1,4 @@
-Documentation et sources : https://clusif.fr/format-publication/pdf/
+Documentations et sources : https://clusif.fr/format-publication/pdf/
 
 **Module 1: Gestion de Projet Agile Scrum**
 
