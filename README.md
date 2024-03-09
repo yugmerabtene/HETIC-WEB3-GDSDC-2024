@@ -10,7 +10,7 @@
 **Module 3: Bonnes Pratiques de Développement, Tests et Gestion de Crise**
 
 **A. Bonnes Pratiques de Développement**
-   1. **Code Propre et Lisibilité :** Adoption des principes du Clean Code pour améliorer la qualité et la lisibilité du code.
+   1. **Clean code et Lisibilité :** Adoption des principes du Clean Code, SOLID, DESIGN PATTERNS, pour améliorer la qualité et la lisibilité du code.
    2. **SOLID Principle et Design Patterns :** Application des principes SOLID et utilisation de Design Patterns pour résoudre des problèmes récurrents de conception.
    3. **Gestion de Dette Technique :** Pratiques pour minimiser l'accumulation de défauts.
 
@@ -45,7 +45,3 @@
 **Module 6: Dette Technique, Versioning, et Refactoring**
    - Gestion proactive de la dette technique. Utilisation de systèmes de versioning (Git). Pratique régulière du refactoring.
 
-**Module 7: Design Pattern, Clean Code, Scalabilité et Prochaines Étapes**
-   - Application du SOLID principle, Design Patterns, Clean Code, et Scalabilité pour assurer la performance du système.
-   - Intégration continue de l'équipe de développement dans le processus décisionnel.
-   - Maintenance régulière du code.
