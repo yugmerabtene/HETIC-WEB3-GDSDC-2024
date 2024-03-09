@@ -24,26 +24,32 @@
 
 **B- Gestion de crise informatique – Compréhension des types de cyberattaques**
 
-1. **Introduction**
-    La gestion des risques informatiques est devenue une démarche cruciale pour assurer la sécurité des entreprises. Les incidents de piratage et les attaques numériques font désormais partie intégrante de notre quotidien. Un risque informatique peut se manifester sous la forme d'un simple incident avec des conséquences mineures, mais il peut également dégénérer en une crise informatique paralysante pour toute l'entreprise. Dans ce contexte, l'élaboration d'un plan de gestion de crise devient essentielle pour garantir la continuité et la reprise des activités. L'efficacité de ce processus repose sur deux piliers fondamentaux : un inventaire pertinent des risques informatiques potentiels et un système d'alerte infaillible.
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/2edfeec2-7e7d-4c2d-8e37-cb14a155b728)
 
-2. **Gestion de crise informatique à partir des attaques ci-dessous**
-   
-    2.1 **Les programmes malveillants**
-        Les logiciels malveillants représentent la principale source de crises informatiques. On recense 11 types majeurs de malwares, chacun infectant les ordinateurs ou autres dispositifs informatiques de différentes manières. Ces incluent le virus, le ver, le wabbit, le cheval de Troie, la porte dérobée, le logiciel espion, l'enregistreur de frappe, l'exploit, le rootkit, le facticiel, le piégeage de logiciel, la bombe, et le publiciel (adware).
+5. **La communication de crise dans le contexte de la cybersécurité**
 
-    2.2 **Les attaques numériques par messagerie**
-        Les programmes malveillants peuvent également se propager par le biais de courriers électroniques. Des attaques spécifiques ciblant les messageries électroniques incluent le pourriel (spam), l'hameçonnage (phishing).
+    5.1 **Communication interne**
+        La communication au sein de l'entreprise est cruciale lors d'une crise cyber. Il est essentiel d'informer rapidement et précisément les employés sur la nature de la menace, les mesures prises et les impacts potentiels sur leurs activités quotidiennes.
 
-    2.3 **Les attaques sur les réseaux**
-        Les hackers exploitent les réseaux informatiques pour porter atteinte à des entités. Les cyberattaques via les réseaux incluent le sniffing, la mystification (spoofing), le brouillage (obfuscation) et le déni de service (DoS).
+    5.2 **Communication externe**
+        La communication avec les parties prenantes externes, telles que les clients, les partenaires commerciaux et les autorités réglementaires, est tout aussi importante. Une communication transparente, proactive et cohérente contribue à maintenir la confiance et à atténuer les éventuels dommages à la réputation de l'entreprise.
 
-    2.4 **Les attaques sur les mots de passe**
-        Les pirates s'engagent dans le craquage de mots de passe pour accéder à des systèmes informatiques. Les deux principales attaques sont l'attaque par dictionnaire et l'attaque par force brute.
+    5.3 **Gestion des médias**
+        Les médias jouent un rôle crucial lors d'une crise cyber. Une stratégie de gestion des médias bien élaborée permet de contrôler la narration, de fournir des informations précises et de minimiser les spéculations nuisibles.
 
-3. **Optimiser la diffusion d’alerte en cas de cyberattaque**
-    La cybersécurité est devenue un élément critique pour toute entreprise. Malgré les efforts déployés par les départements de sécurité informatique, les pirates parviennent toujours à trouver des failles. Ainsi, la préparation à une crise numérique est essentielle. La communication de crise est généralement intégrée dans le Plan de Continuité d'Activité (PCA) ou le Plan de Reprise d'Activité (PRA).
+6. **Post-crise et leçons apprises**
 
+    6.1 **Évaluation des dommages**
+        Après la résolution technique de la crise, il est nécessaire d'évaluer les dommages subis. Cela implique de déterminer l'impact financier, les pertes de données, les conséquences opérationnelles et les répercussions sur la réputation.
+
+    6.2 **Rapport d'incident**
+        La documentation précise des événements survenus pendant la crise est essentielle. Un rapport d'incident détaillé permet d'analyser les faiblesses du système de sécurité, d'identifier les erreurs commises et de recommander des améliorations pour renforcer la résilience de l'entreprise.
+
+    6.3 **Formation et sensibilisation**
+        Utiliser les enseignements tirés de la crise pour renforcer la formation et la sensibilisation des employés en matière de cybersécurité. La prévention des futures attaques repose largement sur une équipe bien informée et consciente des risques.
+
+7. **Conclusion**
+    En conclusion, la gestion de crise dans le domaine de la cybersécurité est un processus complexe et crucial pour assurer la résilience des entreprises face aux menaces numériques. Un plan de gestion de crise bien élaboré, une communication efficace et une évaluation approfondie des dommages sont des éléments essentiels pour surmonter avec succès une crise cyber et renforcer la sécurité informatique à long terme.
 
 **C- Organisation d'une cellule de crise en cas de cyberattaque**
 
