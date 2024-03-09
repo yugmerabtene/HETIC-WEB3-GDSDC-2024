@@ -1,4 +1,4 @@
-Bien sûr, voici le syllabus mis à jour en intégrant les recommandations et les outils mentionnés :
+Documentation et sources : https://clusif.fr/format-publication/pdf/
 
 **Module 1: Gestion de Projet Agile Scrum**
 
