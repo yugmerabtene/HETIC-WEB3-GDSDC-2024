@@ -64,6 +64,3 @@
    2. **Analyse des Métriques Post-Déploiement :**
       - Utilisation des métriques pour évaluer l'impact des changements et détecter les anomalies, avec des outils comme [Splunk](https://www.splunk.com/) (payant) ou [Datadog](https://www.datadoghq.com/) (payant).
 
-**Module 6: Dette Technique, Versioning, et Refactoring**
-
-   - Gestion proactive de la dette technique. Utilisation de systèmes de versioning comme [Git](https://git-scm.com/). Pratique régulière du refactoring.
