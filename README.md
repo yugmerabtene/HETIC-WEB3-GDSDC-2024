@@ -34,15 +34,10 @@
    3. **Outil de Reporting d'Incidents :**
       - Personnalisation d'outils payants comme [Redmine](https://www.redmine.org/) ou [Mantis](https://www.mantisbt.org/), ainsi que l'utilisation d'outils open source tels que [GitLab Issues](https://docs.gitlab.com/ee/user/project/issues/) (open source).
 
-**C. Communication Interne et Externe Pendant les Crises**
+   4. **Communication Interne et Externe Pendant les Crises :**
+      - Insistance sur la nécessité d'un protocole clair pour la communication interne et la prise de décision rapide. Intégration des réseaux sociaux, des plateformes de collaboration interne, et des rapports réguliers dans la gestion de crise.
 
-   1. **Canal de Communication Dédié :**
-      - Insistance sur la nécessité d'un protocole clair pour la communication interne et la prise de décision rapide.
-
-   2. **Alertes Automatisées :**
-      - Intégration de scénarios de simulation pour s'assurer que les alertes automatisées sont efficaces, par exemple, via [PagerDuty](https://www.pagerduty.com/) ou [Opsgenie](https://www.atlassian.com/software/opsgenie).
-
-**D. Utilisation de Métriques et d'Analyses pour la Gestion de Crise**
+**C. Utilisation de Métriques et d'Analyses pour la Gestion de Crise**
 
    1. **Tableaux de Bord de Performance :**
       - Explication sur la personnalisation des tableaux de bord en fonction des indicateurs clés pertinents pour le projet.
@@ -68,3 +63,7 @@
 
    2. **Analyse des Métriques Post-Déploiement :**
       - Utilisation des métriques pour évaluer l'impact des changements et détecter les anomalies, avec des outils comme [Splunk](https://www.splunk.com/) (payant) ou [Datadog](https://www.datadoghq.com/) (payant).
+
+**Module 6: Dette Technique, Versioning, et Refactoring**
+
+   - Gestion proactive de la dette technique. Utilisation de systèmes de versioning comme [Git](https://git-scm.com/). Pratique régulière du refactoring.
