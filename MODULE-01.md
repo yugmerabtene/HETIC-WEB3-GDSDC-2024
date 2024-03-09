@@ -44,5 +44,47 @@
 3. **Optimiser la diffusion d’alerte en cas de cyberattaque**
     La cybersécurité est devenue un élément critique pour toute entreprise. Malgré les efforts déployés par les départements de sécurité informatique, les pirates parviennent toujours à trouver des failles. Ainsi, la préparation à une crise numérique est essentielle. La communication de crise est généralement intégrée dans le Plan de Continuité d'Activité (PCA) ou le Plan de Reprise d'Activité (PRA).
 
-4. **Solution de gestion de crise informatique**
-    Notre application de gestion d'alerte vous offre la possibilité d'informer rapidement vos collaborateurs et clients en cas d'incident. À partir d'un logiciel ou d'une plateforme web, vous pouvez planifier le déclenchement de l'alerte, le message à diffuser et les destinataires. Nous proposons également des solutions de gestion de crise informatique pour planifier les astreintes et le personnel de garde. En cas d'attaque cybernétique, l'alarme, l'alerte et l'organisation du personnel sont automatiquement déclenchées.
+
+**C- Organisation d'une cellule de crise en cas de cyberattaque**
+
+1. **Introduction**
+    Organiser une cellule de crise constitue la première étape cruciale lors d'une attaque informatique. La gestion d'une crise informatique représente une course contre la montre, car les impacts d'un piratage peuvent se propager rapidement, affectant gravement l'entreprise, notamment par des fuites de données et une paralysie du système informatique. La mise en place de cellules de crise, chargées de diriger et de mener des opérations d'urgence, devient ainsi impérative. Cette action préventive vise à garantir l'efficacité de la gestion de crise en anticipant les scénarios possibles. L'anticipation demeure le meilleur moyen de faire face à une urgence, d'autant plus que les attaques cybernétiques requièrent une approche multidisciplinaire, combinant des compétences organisationnelles et techniques en sécurité informatique.
+
+2. **Gestion d'une crise informatique – les spécificités**
+   
+    2.1 **Invisibilité**
+        Les attaques informatiques sont souvent difficiles à identifier, contrairement à d'autres incidents classiques tels que les incendies, séismes ou crues. La détection des signes précurseurs est essentielle pour réagir rapidement.
+
+    2.2 **Imprévisibilité**
+        Les attaques informatiques sont parfois détectées longtemps après leur occurrence, rendant l'évaluation des impacts difficile. Les cellules de crise doivent élaborer rapidement un plan d'action incluant confinement, suppression de l'attaque, corrections, et reconstruction pour une reprise d'activité rapide.
+
+    2.3 **Technicité**
+        Répondre à une cyberattaque requiert des expertises techniques, impliquant la mobilisation rapide d'experts en cybersécurité et d'équipes spécialisées, telles que le Computer Emergency Response Team (CERT) et d'autres entités externes.
+
+    2.4 **Propagation**
+        Une attaque informatique altère le système et les moyens de communication de l'entreprise. Il est donc recommandé d'avoir des canaux de communication et des postes de travail hors SI pendant une crise.
+
+3. **Les membres de la cellule de crise**
+   
+    3.1 **La cellule décisionnelle**
+        Composée des cadres de l'entreprise, elle inclut le pilote de crise (chef de la cellule), la direction métier, la communication, les ressources humaines, les systèmes d'information, la direction juridique, et la gestion des risques.
+
+    3.2 **La cellule opérationnelle**
+        Aussi appelée cellule spécialisée, elle regroupe des représentants de plusieurs services, dont le métier, l'informatique et la sécurité, la communication, ainsi que des consultants externes.
+
+    La collaboration et la coordination des cellules doivent être équilibrées pour éviter un excès de pilotage ou un manque de direction.
+
+4. **Les moyens de gestion de crise informatique**
+   
+    4.1 **Les salles de crise**
+        Une salle isolée pour la cellule décisionnelle et une salle commune pour les cellules opérationnelles, facilitant les échanges.
+
+    4.2 **Les moyens de communication**
+        Systèmes de téléphonie, messagerie électronique et autres outils pour faciliter les échanges de documents.
+
+    4.3 **Les moyens de traitement opérationnels**
+        Équipement informatique connecté au réseau et à internet pour les experts intervenant pendant la crise.
+
+    4.4 **Les documents de gestion de crise**
+        Informations et documents de référence nécessaires à l'analyse de la crise, incluant des fiches préétablies pour coordonner les activités et une main courante de crise.
+
