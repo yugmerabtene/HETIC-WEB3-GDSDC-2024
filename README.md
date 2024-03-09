@@ -23,7 +23,7 @@
    2. **Analyse des Tendances :** Utilisation d'outils d'analyse de tendances comme Google Analytics ou New Relic pour anticiper les problèmes potentiels.
    3. **Gestion des Capacités :** Utilisation d'analyses prédictives pour ajuster les capacités du système en fonction des tendances de charge prévues.
    4. **Réponse Proactive :** Utilisation des métriques pour anticiper les problèmes potentiels et mettre en place des mesures correctives avant qu'ils ne deviennent critiques.
-
+** D Scalabilité eslasticité aws services ou autre, répondre au flux montant du traffic reseau
 **E. Exercices de Simulation Complets de Gestion de Crise**
    1. **Simulations de Bugs Majeurs :** Création de scénarios de simulation pour tester la réactivité des équipes face à des bugs majeurs.
    2. **Exercices de Déploiement d'Urgence :** Simulation de situations d'urgence pour tester la capacité à déployer rapidement des correctifs.
