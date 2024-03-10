@@ -9,7 +9,10 @@
 
 La méthode agile, introduite en 2001 en réponse aux limites de la méthode en cascade, a profondément transformé le développement logiciel en favorisant une approche collaborative basée sur des valeurs, guidant ainsi les choix dans le processus de création de logiciels opérationnels. Son objectif principal est de distribuer continuellement des produits de qualité grâce à des itérations rapides.
 
-*Années 1990* : Remise en question des cycles de production en cascade.
+*Années 1990* : Remise en question des cycles de production en cascade.  
+
+![Cycle-de-vie-de-projet-en-cascade-Ce-type-de-cycle-de-vie-simple-a-comprendre-et-a](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/17278367-0666-4655-ab7d-f44fc20b14fe)
+
 *2001* : Émergence de la méthode agile en réponse à la nécessité d'adaptabilité.
 
 **Petite histoire de la méthode agile**
