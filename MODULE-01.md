@@ -198,7 +198,69 @@ Le Poker Planning est une technique collaborative qui permet à une équipe Scru
 Intégrer le Poker Planning dans votre processus agile offre une approche ludique et collaborative pour estimer les efforts, renforçant ainsi la communication au sein de l'équipe et améliorant la précision des estimations.
 
 
+**Principes et Exercices pour un Projet Informatique Agile :**
 
+### Principes Agile :
+
+1. **Transparence :**
+   - **Principe :** Tous les aspects du projet, y compris les défis, les progrès et les décisions, sont visibles et accessibles à l'équipe.
+   - **Exercice :** Utiliser des tableaux Scrum, des outils de suivi de projet en temps réel, et organiser des réunions régulières de revue de projet.
+
+2. **Adaptabilité :**
+   - **Principe :** Le projet est flexible et peut s'adapter aux changements de besoins du client ou aux évolutions du marché.
+   - **Exercice :** Intégrer des itérations courtes et régulières pour permettre des ajustements fréquents. Pratiquer la rétrospective à la fin de chaque sprint pour identifier des améliorations.
+
+3. **Collaboration :**
+   - **Principe :** La communication et la coopération constantes entre les membres de l'équipe, les parties prenantes et le client sont cruciales.
+   - **Exercice :** Organiser des sessions de pair-programming, encourager les discussions fréquentes, et mettre en place des outils de communication efficaces.
+
+4. **Livraison Continue :**
+   - **Principe :** Le produit est livré de manière incrémentielle, permettant un feedback rapide et des ajustements continus.
+   - **Exercice :** Implémenter des pipelines d'intégration continue/déploiement continu (CI/CD), assurant une livraison automatisée et régulière des fonctionnalités.
+
+5. **Priorisation :**
+   - **Principe :** Les fonctionnalités sont priorisées en fonction de la valeur ajoutée pour le client.
+   - **Exercice :** Utiliser des techniques d'estimation comme le Planning Poker pour attribuer des story points et prioriser le backlog.
+
+6. **Itérations et Feedback :**
+   - **Principe :** Les itérations courtes permettent d'obtenir un feedback fréquent, favorisant l'amélioration continue.
+   - **Exercice :** Planifier des sprints courts, recueillir des feedbacks réguliers du client, et ajuster le produit en conséquence.
+
+### Exercices Techniques Agile :
+
+1. **Refactoring de Code :**
+   - **Objectif :** Améliorer la qualité du code sans changer son comportement.
+   - **Exercice :** Sélectionner une portion de code existante, la refacturer pour améliorer la lisibilité et la maintenabilité sans ajouter de fonctionnalités.
+
+2. **Tests Unitaires et TDD :**
+   - **Objectif :** Encourager le développement axé sur les tests et la programmation pilotée par les tests (TDD).
+   - **Exercice :** Écrire des tests unitaires avant de développer une nouvelle fonctionnalité, puis écrire le code pour les faire passer.
+
+3. **Pair Programming :**
+   - **Objectif :** Améliorer la collaboration et la qualité du code en ayant deux développeurs travaillant ensemble.
+   - **Exercice :** Réaliser une tâche en binôme, en alternant les rôles de "chauffeur" (codant) et "navigateur" (observant et suggérant).
+
+4. **Sprint Review et Rétrospective :**
+   - **Objectif :** Collecter des retours sur le produit et améliorer les processus de l'équipe.
+   - **Exercice :** À la fin de chaque sprint, organiser une revue où l'équipe présente les fonctionnalités achevées, suivie d'une rétrospective pour discuter des points positifs et des axes d'amélioration.
+
+5. **Décomposition de Tâches :**
+   - **Objectif :** Découper les fonctionnalités en tâches plus petites pour une gestion plus granulaire.
+   - **Exercice :** Prendre une user story et la décomposer en sous-tâches, attribuant des estimations à chaque sous-tâche.
+
+6. **Simulation de Crise :**
+   - **Objectif :** Préparer l'équipe à gérer des situations de crise.
+   - **Exercice :** Simuler un problème majeur (par exemple, un bug critique en production) et observer comment l'équipe réagit et résout la situation.
+
+7. **Estimation et Planning Poker :**
+   - **Objectif :** Estimer les efforts nécessaires pour achever les user stories.
+   - **Exercice :** Utiliser le Planning Poker pour attribuer des story points aux tâches, favorisant la collaboration et la compréhension commune des estimations.
+
+8. **Kanban Board :**
+   - **Objectif :** Visualiser le flux de travail et améliorer la gestion des tâches.
+   - **Exercice :** Mettre en place un tableau Kanban pour suivre visuellement les étapes de chaque tâche, favorisant une gestion transparente du travail.
+
+Ces principes et exercices combinés forment un cadre complet pour la mise en œuvre réussie de méthodes agiles dans un projet informatique, renforçant la collaboration, la qualité du code, et l'adaptabilité aux changements.
 
 
 **Utilisation de Jira et Trello**
