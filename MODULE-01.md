@@ -127,3 +127,7 @@ En plus des principes fondamentaux de Scrum que j'ai mentionnés précédemment,
 
 L'agilité repose sur la flexibilité, l'adaptabilité et la collaboration constante, ce qui permet de mieux faire face aux situations imprévues et de gérer efficacement les défis du développement logiciel.
 
+**Utilisation de Jira et Trello**
+
+
+
