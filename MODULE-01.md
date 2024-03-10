@@ -14,6 +14,10 @@ La méthode agile, introduite en 2001 en réponse aux limites de la méthode en 
 ![Cycle-de-vie-de-projet-en-cascade-Ce-type-de-cycle-de-vie-simple-a-comprendre-et-a](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/17278367-0666-4655-ab7d-f44fc20b14fe)  
 ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/fe5461ee-4a98-46c6-82d1-05c048316c89)  
 
+**En cycle en V**, la livraison du produit s'effectue une fois toutes les fonctionnalités développées, c'est un produit final, correspondant peu au produit imaginé. En gestion agile, les besoins sont priorisés, puis développés et testés sans attendre le développement complet de la fonctionnalité.
+
+**Le modèle en cascade, ou « waterfall » en anglais**, est une organisation des activités d'un projet sous forme de phases linéaires et séquentielles, où chaque phase correspond à une spécialisation des tâches et dépend des résultats de la phase précédente. Il comprend les phases d'exigences, de conception, de mise en œuvre et de mise en service.
+
 
 *2001* : Émergence de la méthode agile en réponse à la nécessité d'adaptabilité.
 
