@@ -81,3 +81,5 @@
 
    8. **Guide de continuité d'activité du SGDSN :**
       - Analyse du guide publié par le SGDSN sur la continuité d’activité au sens général du terme.
+      - Plan de Continuité d'Activité (PCA)
+      - Plan de Reprise d'Activité (PRA).
