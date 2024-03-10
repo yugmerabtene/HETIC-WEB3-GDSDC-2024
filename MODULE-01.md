@@ -9,14 +9,32 @@
 
 La méthode agile, introduite en 2001 en réponse aux limites de la méthode en cascade, a profondément transformé le développement logiciel en favorisant une approche collaborative basée sur des valeurs, guidant ainsi les choix dans le processus de création de logiciels opérationnels. Son objectif principal est de distribuer continuellement des produits de qualité grâce à des itérations rapides.
 
-*Années 1990* : Remise en question des cycles de production en cascade et en V.  
+**Évolution des Modèles de Gestion de Projet dans les Années 1990 et Cycle en V**
 
-![Cycle-de-vie-de-projet-en-cascade-Ce-type-de-cycle-de-vie-simple-a-comprendre-et-a](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/17278367-0666-4655-ab7d-f44fc20b14fe)  
-![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/fe5461ee-4a98-46c6-82d1-05c048316c89)  
+Dans les années 1990, les modèles traditionnels de gestion de projet, tels que le cycle en cascade et le cycle en V, ont été remis en question face aux changements technologiques rapides. Le cycle en cascade, également connu sous le nom de "waterfall," se caractérise par des phases linéaires et séquentielles, de la définition des exigences à la mise en service. D'un autre côté, le cycle en V, émergé des années 1970, représente un processus linéaire avec des phases de réalisation associées à des phases de validation, formant une structure en forme de V.
 
-**En cycle en V**, la livraison du produit s'effectue une fois toutes les fonctionnalités développées, c'est un produit final, correspondant peu au produit imaginé. En gestion agile, les besoins sont priorisés, puis développés et testés sans attendre le développement complet de la fonctionnalité.
+![Cycle de vie de projet en cascade](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/17278367-0666-4655-ab7d-f44fc20b14fe)
+![Cycle en V](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/fe5461ee-4a98-46c6-82d1-05c048316c89)
 
-**Le modèle en cascade, ou « waterfall » en anglais**, est une organisation des activités d'un projet sous forme de phases linéaires et séquentielles, où chaque phase correspond à une spécialisation des tâches et dépend des résultats de la phase précédente. Il comprend les phases d'exigences, de conception, de mise en œuvre et de mise en service.
+**Définition du Cycle en V et Son Évolution**
+
+Le cycle en V, dérivé du modèle en cascade, a été développé dans les années 1980, principalement pour les projets industriels, puis étendu aux projets informatiques. La lettre V symbolise la structure du cycle, avec une phase descendante suivie d'une phase ascendante, associant chaque phase de réalisation à une phase de validation. Cependant, à partir des années 2000, les méthodes agiles ont gagné en popularité en raison de leur adaptabilité aux changements rapides.
+
+**Avantages et Inconvénients du Cycle en V**
+
+Le principal avantage du cycle en V réside dans son approche rigoureuse, évitant les retours en arrière constants. Chaque phase nécessite une documentation précise et exhaustive, assurant une progression solide. Cependant, l'inconvénient majeur réside dans l'effet tunnel, où les spécifications initiales rigides limitent l'adaptabilité aux changements.
+
+**Cycle en V vs. Méthodes Agiles**
+
+Le cycle en V se concentre sur le processus, tandis que les méthodes agiles privilégient le produit. Les méthodes agiles, telles que Scrum, permettent une adaptation continue à travers des itérations et une élaboration du produit par incrémentation, contrairement au cycle en V qui définit l'intégralité du produit dès le début.
+
+**Mise en Œuvre du Cycle en V et Projets Adaptés**
+
+Le cycle en V est adapté aux projets avec des exigences précises, un prestataire maîtrisant toutes les étapes, un cahier des charges stable, et un environnement technologique peu évolutif. La phase cruciale de conception exige une collecte exhaustive des besoins du client et une validation rigoureuse des spécifications.
+
+**Rôles dans le Cycle en V**
+
+En début de projet, il est essentiel de définir les rôles, tels que la maîtrise d'ouvrage, la maîtrise d'œuvre, l'équipe architecturale, et l'équipe de développement, pour assurer une progression fluide à travers les phases du cycle en V.
 
 
 *2001* : Émergence de la méthode agile en réponse à la nécessité d'adaptabilité.
