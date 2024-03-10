@@ -168,9 +168,43 @@ L'agilité repose sur la flexibilité, l'adaptabilité et la collaboration const
    a. Simulez un déploiement en identifiant les étapes clés, les tests nécessaires et les éventuelles interruptions de service.
 
 
+### 11. **Poker**
+**Résumé Amélioré : Poker Planning - Guide Pratique pour une Estimation Agile**
+
+Le Poker Planning, ou Scrum Poker, se présente comme une méthode d'estimation agile puissante pour allouer efficacement des ressources aux tâches du Product Backlog. Voici un guide pratique détaillé pour comprendre et appliquer cette technique au sein de votre équipe de développement :
+
+**1. Qu'est-ce que le Poker Planning ?**
+Le Poker Planning est une technique collaborative qui permet à une équipe Scrum d'estimer collectivement l'effort nécessaire pour chaque tâche du Product Backlog. Cette méthode utilise des cartes de poker, qu'elles soient physiques ou virtuelles, pour parvenir à un consensus sur les estimations.
+
+**2. Comment Jouer au Poker Planning : La Collaboration Agile**
+   a. **Préparer le Terrain :** Expliquez le processus aux membres de l'équipe qui peuvent utiliser des cartes à jouer pour estimer la taille des user stories dans le prochain sprint.
+   b. **Distribuer les Cartes de Poker :** Chaque participant reçoit un jeu de cartes numérotées selon la suite de Fibonacci (0, 1, 2, 3, 5, 8, 13, 21, etc.).
+   c. **Lire une User Story :** Le modérateur lit une user story en fournissant autant de détails que possible.
+   d. **Discuter de la Story Ensemble :** Les membres de l'équipe discutent des détails de la user story, des contraintes éventuelles, et des membres impliqués.
+   e. **Jouer aux Cartes :** Chaque membre de l'équipe sélectionne une carte (face cachée) pour représenter son estimation. Le modérateur révèle ensuite les estimations, encourageant la discussion en cas de divergences.
+   f. **Discuter et Procéder à une Nouvelle Estimation :** Si les estimations varient, les membres expliquent leurs choix, et une nouvelle série d'estimations peut être effectuée.
+
+**3. Avantages de l'Estimation Agile avec le Poker Planning**
+   - **Meilleure Collaboration :** Favorise la collaboration en permettant à chaque membre de contribuer à l'estimation.
+   - **Consensus d'Équipe :** Encourage le consensus au sein de l'équipe, aboutissant souvent à des estimations plus convergentes.
+   - **Méthode Validée :** Les expériences montrent que le Poker Planning est une méthode efficace, produisant des estimations statistiquement plus élevées et plus précises que les estimations individuelles.
+
+**4. Exercice Pratique :**
+   - Sélectionnez une user story hypothétique de votre backlog.
+   - Utilisez des cartes de poker (virtuelles ou physiques).
+   - Chaque participant estime l'effort individuel.
+   - Discutez des divergences et refaites l'estimation si nécessaire.
+
+Intégrer le Poker Planning dans votre processus agile offre une approche ludique et collaborative pour estimer les efforts, renforçant ainsi la communication au sein de l'équipe et améliorant la précision des estimations.
+
+
+
 
 
 **Utilisation de Jira et Trello**
+Presentation :
+Utilisation :
+
 
 
 
