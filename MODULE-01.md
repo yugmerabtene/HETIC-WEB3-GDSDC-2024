@@ -1,3 +1,17 @@
+CLEAN CODE UNCLE BOB : 
+https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+Refactoring : 
+https://refactoring.guru/fr
+UML :
+https://www-public.imtbs-tsp.eu/~gibson/Teaching/Teaching-ReadingMaterial/Roques06.pdf
+
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/80546eab-fcee-4e6f-8d1d-775486ac9cb3)
+https://github.com/spacekitteh/zephyrgc/blob/master/Architecture%20modelling/Oreilly.Learning.UML.2.0.Apr.2006.pdf
+
+
+
+https://www-lipn.univ-paris13.fr/~gerard/docs/cours/uml-cours-support.pdf
+
 **A- Préparer, anticiper bien gérer une crise informatique** 
 
 **Les enjeux d'une crise informatique et la nécessité d'une gestion efficace**
