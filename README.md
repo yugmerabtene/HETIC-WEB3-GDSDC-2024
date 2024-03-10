@@ -23,6 +23,7 @@
    4. **Maintenance Régulière du Code :**
       - Pratiques de maintenance proactive, comme la révision de code régulière et l'utilisation d'outils automatisés tels que [SonarQube](https://www.sonarqube.org/).
 
+
 **B. Tests Avant Déploiement et Gestion de Crise**
 
    1. **Tests Unitaires, tests de non-régression, testes de Sécurité :**
@@ -63,3 +64,27 @@
 
    2. **Analyse des Métriques Post-Déploiement :**
       - Utilisation des métriques pour évaluer l'impact des changements et détecter les anomalies, avec des outils comme [Splunk](https://www.splunk.com/) (payant) ou [Datadog](https://www.datadoghq.com/) (payant).
+
+
+
+**Module 5: RÉFÉRENTIELS ET ASPECTS RÉGLEMENTAIRES**
+
+   4. **Normes et guides de Gestion de Crise :**
+      - Exploration des référentiels normatifs tels que la norme britannique BS 11200:2014, les normes internationales ISO 310005 et ISO 22301, ainsi que les guides du NIST (National Institute of Standards and Technology).
+
+   5. **Obligations réglementaires et légales :**
+      - Analyse des obligations légales en matière de gestion de crise, y compris le Référentiel Général de Sécurité (RGS), la Loi de Programmation Militaire (LPM), le Code de la Santé Publique, et d'autres lois pertinentes.
+
+   6. **Application des Référentiels dans la Gestion de Crise :**
+      - Intégration des principes des référentiels tels que le RGS et la LPM dans les processus de gestion de crise, y compris l'identification de la cellule de crise, les tests réguliers, et les mesures en cas de crise informatique majeure.
+
+   7. **Réflexion sur les Normes ISO pour la Continuité d'Activité :**
+      - Approfondissement des normes ISO 31000, ISO 22301, ISO 27001, et ISO 27035, mettant l'accent sur leur application dans la gestion de crise.
+
+   8. **Guide de Préparation aux Situations d'Urgence :**
+      - Exploration du guide de préparation aux situations d'urgence disponible sur le portail interministériel de prévention des risques majeurs.
+
+   9. **Guide de Continuité d'Activité du SGDSN :**
+      - Analyse du guide publié par le SGDSN sur la continuité d’activité au sens général du terme.
+
+
