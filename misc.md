@@ -1,9 +1,12 @@
-CLEAN CODE UNCLE BOB : 
-https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
-Refactoring : 
-https://refactoring.guru/fr
-UML :
-https://www-public.imtbs-tsp.eu/~gibson/Teaching/Teaching-ReadingMaterial/Roques06.pdf
+ CLEAN CODE UNCLE BOB :   
+https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf    
+Refactoring :   
+https://refactoring.guru/fr  
+UML :  
+https://www-public.imtbs-tsp.eu/~gibson/Teaching/Teaching-ReadingMaterial/Roques06.pdf 
+
+ISO ET NORMES
+lazarusalliance.com/what-is-iso-31000/  
 
 ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/80546eab-fcee-4e6f-8d1d-775486ac9cb3)
 https://github.com/spacekitteh/zephyrgc/blob/master/Architecture%20modelling/Oreilly.Learning.UML.2.0.Apr.2006.pdf
