@@ -7,7 +7,7 @@
 
    - Importance de la documentation générée par UML pour la compréhension du système par les intervenants.
 
-**Module 3: Bonnes pratiques de développement, tests et gestion de crise**
+**Module 3: Bonnes pratiques de développement et tests**
 
 **3.1 Bonnes pratiques de développement**
 
@@ -79,10 +79,5 @@
    7. **Réflexion sur les normes ISO pour la continuité d'activité :**
       - Approfondissement des normes ISO 31000, ISO 22301, ISO 27001, et ISO 27035, mettant l'accent sur leur application dans la gestion de crise.
 
-   8. **Guide de pré
-
-paration aux situations d'urgence :**
-      - Exploration du guide de préparation aux situations d'urgence disponible sur le portail interministériel de prévention des risques majeurs.
-
-   9. **Guide de continuité d'activité du SGDSN :**
+   8. **Guide de continuité d'activité du SGDSN :**
       - Analyse du guide publié par le SGDSN sur la continuité d’activité au sens général du terme.
