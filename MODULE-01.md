@@ -169,7 +169,7 @@ L'agilité repose sur la flexibilité, l'adaptabilité et la collaboration const
 
 
 ### 11. **Poker**
-**Résumé Amélioré : Poker Planning - Guide Pratique pour une Estimation Agile**
+**Poker Planning - Guide Pratique pour une Estimation Agile**
 
 Le Poker Planning, ou Scrum Poker, se présente comme une méthode d'estimation agile puissante pour allouer efficacement des ressources aux tâches du Product Backlog. Voici un guide pratique détaillé pour comprendre et appliquer cette technique au sein de votre équipe de développement :
 
@@ -194,8 +194,40 @@ Le Poker Planning est une technique collaborative qui permet à une équipe Scru
    - Utilisez des cartes de poker (virtuelles ou physiques).
    - Chaque participant estime l'effort individuel.
    - Discutez des divergences et refaites l'estimation si nécessaire.
+Le Planning Poker Scrum, qu'est-ce que c'est ?
+Date : 1er août 2016
+Durée de lecture : 7 minutes
 
-Intégrer le Poker Planning dans votre processus agile offre une approche ludique et collaborative pour estimer les efforts, renforçant ainsi la communication au sein de l'équipe et améliorant la précision des estimations.
+L'estimation des charges pour la réalisation d'une action ou d'une fonctionnalité constitue l'une des tâches les plus complexes de la gestion de projet. Elle requiert la collaboration entre experts techniques et fonctionnels, dépendant largement de l'expérience des participants et de leur connaissance du client et de son environnement technique. La méthode agile Scrum propose un outil efficace pour ces estimations : le Planning Poker Scrum.
+
+**1. Principe du Planning Poker Scrum**
+Le Planning Poker Scrum rassemble l'équipe projet autour du Scrum Master, facilitant les échanges sur les fonctionnalités étudiées. L'aspect clé du Planning Poker est la liberté d'expression, permettant de croiser les sources d'informations et les opinions. Chacun contribue en fonction de son expérience, expertise et ressenti, consolidant ainsi l'estimation finale en mettant en lumière la complexité de la fonctionnalité.
+
+Les experts techniques apportent divers points de vue et solutions, tandis que l'expert fonctionnel éclaire sur les points critiques à considérer. L'estimation porte sur des fonctionnalités du "backlog produit" identifiées comme prioritaires par le "product owner" pour le prochain "sprint". Le Planning Poker se déroule avant le sprint, ne planifiant pas les réalisations mais fournissant des estimations.
+
+**2. Description du Planning Poker**
+Le Planning Poker introduit un aspect ludique à l'estimation en utilisant un jeu de cartes spécialement conçu. Les cartes présentent des valeurs telles que 0, 0.5, 1, 2, 3, 5, 8, 13, 20, 40, 100, "∞", et "?". Ces valeurs ne représentent pas des jours-hommes, mais des points considérant la complexité relative des tâches.
+
+Les participants attribuent des cartes en fonction de la complexité, indépendamment de la durée. Une valeur de 0 indique une fonctionnalité existante ou sans effort particulier. Les valeurs augmentent en complexité, avec 100 représentant une grande complexité. La carte "∞" signifie une tâche dépassant 100, peu probable pour le sprint. La carte "?" indique l'incapacité d'estimer.
+
+**3. Déroulement du Planning Poker Scrum**
+Pour une efficacité maximale, tous les participants se réunissent calmement autour d'une table pendant une durée adéquate. Chacun reçoit un jeu de cartes au début de la réunion.
+
+Le Scrum Master guide la discussion sur chaque fonctionnalité du backlog. Les participants posent des questions pour clarifier la demande. Chacun est libre d'exprimer son opinion en choisissant une carte, cachée jusqu'à la révélation simultanée. Si les estimations diffèrent considérablement, les extrêmes s'expliquent, persuadant les autres.
+
+Après discussion, chaque participant peut réviser son évaluation. Le Scrum Master note l'évaluation de la fonctionnalité et passe à la suivante jusqu'à épuisement de la liste.
+
+**4. Définition de la vélocité**
+À la fin du Planning Poker Scrum, chaque fonctionnalité a une évaluation en points. La vélocité, représentant les points réalisables par sprint, est cruciale. Si la somme des points des fonctionnalités dépasse la vélocité, le Scrum Master fait un arbitrage.
+
+**5. L'importance de la vélocité**
+Estimer la vélocité au début est difficile, nécessitant plusieurs sprints pour la stabiliser. Elle dépend de facteurs externes et est réévaluée chaque sprint. La vélocité guide la planification des sprints et les objectifs de livraison.
+
+**6. Avantages du Planning Poker Scrum**
+La méthode permet une expression libre et équitable des opinions, assurant des estimations fiables. Les équipes techniques, réalisant les estimations, ont un intérêt direct à la précision. Aucune influence externe ne biaise l'estimation.
+
+**7. Où trouver le matériel ?**
+Les cartes du Planning Poker Scrum peuvent être facilement fabriquées à partir de modèles téléchargeables en ligne, puis imprimées.
 
 
 **Principes et Exercices pour un Projet Informatique Agile :**
@@ -260,7 +292,7 @@ Intégrer le Poker Planning dans votre processus agile offre une approche ludiqu
    - **Objectif :** Visualiser le flux de travail et améliorer la gestion des tâches.
    - **Exercice :** Mettre en place un tableau Kanban pour suivre visuellement les étapes de chaque tâche, favorisant une gestion transparente du travail.
 
-Ces principes et exercices combinés forment un cadre complet pour la mise en œuvre réussie de méthodes agiles dans un projet informatique, renforçant la collaboration, la qualité du code, et l'adaptabilité aux changements.
+
 
 
 **Utilisation de Jira et Trello**
