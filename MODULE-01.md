@@ -5,7 +5,7 @@
 | Intégration de l'équipe de développement           | Utilisation de la méthodologie Agile/Scum et d'outils de gestion de projet tels que [Jira](https://www.atlassian.com/software/jira) et [Trello](https://trello.com/).  
 
 
-**Présentation**
+**1-Présentation**
 
 La méthode agile, introduite en 2001 en réponse aux limites de la méthode en cascade, a profondément transformé le développement logiciel en favorisant une approche collaborative basée sur des valeurs, guidant ainsi les choix dans le processus de création de logiciels opérationnels. Son objectif principal est de distribuer continuellement des produits de qualité grâce à des itérations rapides.
 
