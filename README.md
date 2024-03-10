@@ -1,7 +1,7 @@
 **Module 1: Gestion de projet Agile Scrum**
 
 1. **Intégration de l'équipe de développement dans le processus décisionnel :**
-   - Utilisation d'outils de gestion de projet tels que [Jira](https://www.atlassian.com/software/jira) pour faciliter la collaboration et le suivi des décisions prises.
+   - Utilisation d'outils de gestion de projet tels que [Jira](https://www.atlassian.com/software/jira) et [Trello](https://trello.com/) pour faciliter la collaboration et le suivi des décisions prises.
 
 **Module 2: Analyse et conception UML**
 
@@ -79,10 +79,10 @@
    7. **Réflexion sur les normes ISO pour la continuité d'activité :**
       - Approfondissement des normes ISO 31000, ISO 22301, ISO 27001, et ISO 27035, mettant l'accent sur leur application dans la gestion de crise.
 
-   8. **Guide de préparation aux situations d'urgence :**
-      - Exploration
+   8. **Guide de pré
 
- du guide de préparation aux situations d'urgence disponible sur le portail interministériel de prévention des risques majeurs.
+paration aux situations d'urgence :**
+      - Exploration du guide de préparation aux situations d'urgence disponible sur le portail interministériel de prévention des risques majeurs.
 
    9. **Guide de continuité d'activité du SGDSN :**
       - Analyse du guide publié par le SGDSN sur la continuité d’activité au sens général du terme.
