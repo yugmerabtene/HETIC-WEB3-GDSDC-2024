@@ -40,7 +40,8 @@
       - Personnalisation d'outils open source tels que [Redmine](https://www.redmine.org/) ou [GitLab Issues](https://docs.gitlab.com/ee/user/project/issues/).
 
    4. **Communication interne et externe pendant les crises :**
-      - Insistance sur la nécessité d'un protocole clair pour la communication interne et la prise de décision rapide. Intégration des réseaux sociaux, des plateformes de collaboration interne, et des rapports réguliers dans la gestion de crise.
+      - Pour la communication interne : Utilisation d'outils de messagerie instantanée comme [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software), et la mise en place de réunions régulières via [Zoom](https://zoom.us/).
+      - Pour la communication externe : Utilisation des réseaux sociaux (LinkedIn, Twitter, etc.), des communiqués de presse et la mise en place de pages dédiées sur le site web de l'entreprise.
 
 **📈 Module 5: Utilisation de métriques et d'analyses pour la gestion de crise**
 
@@ -56,7 +57,9 @@
 **💾 Module 6: Sauvegardes et gestion des données critiques**
 
    1. **Stratégie de sauvegarde :**
-      - Mise en place d'une stratégie efficace de sauvegarde des données critiques en utilisant des solutions open source comme [Bacula](https://www.bacula.org/) ou [Duplicity](http://duplicity.nongnu.org/).
+      - Mise en place d'une stratégie efficace de sauvegarde des données critiques en utilisant des solutions
+
+ open source comme [Bacula](https://www.bacula.org/) ou [Duplicity](http://duplicity.nongnu.org/).
 
    2. **Plan de restauration :**
       - Élaboration d'un plan clair pour restaurer rapidement les données en cas de perte, en utilisant des solutions open source telles que [Amanda](https://www.amanda.org/) ou [Restic](https://restic.net/).
@@ -78,9 +81,7 @@
       - Analyse des obligations légales en matière de gestion de crise, y compris le Référentiel Général de Sécurité (RGS), la Loi de Programmation Militaire (LPM), le Code de la Santé Publique, et d'autres lois pertinentes.
 
    6. **Application des référentiels dans la gestion de crise 🔗:**
-      - Intégration des principes des référentiels tels que le RGS et la LPM dans les processus de gestion de crise, y compris l'identification de la cellule de crise, les tests réguliers, et les mesures en cas de cr
-
-ise informatique majeure.
+      - Intégration des principes des référentiels tels que le RGS et la LPM dans les processus de gestion de crise, y compris l'identification de la cellule de crise, les tests réguliers, et les mesures en cas de crise informatique majeure.
 
    7. **Réflexion sur les normes ISO pour la continuité d'activité 🌐:**
       - Approfondissement des normes ISO 31000, ISO 22301, ISO 27001, et ISO 27035, mettant l'accent sur leur application dans la gestion de crise.
