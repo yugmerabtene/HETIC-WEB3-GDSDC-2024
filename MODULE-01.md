@@ -46,15 +46,17 @@ Dans les années 1990, les développeurs ont remis en question les cycles de pro
 
 Les approches agiles, telles que Scrum, Kanban, ou XP, se développent dans le secteur logiciel et la gestion de projets. Scrum, l'un des frameworks agiles les plus utilisés, est introduit, favorisant des équipes pluridisciplinaires gérant des tâches en sprints de 2 à 4 semaines. Le concept de « rétrospective » devient central, reflétant la devise « inspecter et adapter ».
 
-*Actuellement*, Scrum est largement adopté dans les environnements corporatifs pour la gestion de projets agiles. Des outils tels que Jira, Trello, et VersionOne sont couramment utilisés pour planifier, suivre et gérer les sprints.
+Scrum est largement adopté dans les environnements corporatifs pour la gestion de projets agiles. Des outils tels que Jira, Trello, et VersionOne sont couramment utilisés pour planifier, suivre et gérer les sprints.
 
 Aujourd'hui, la méthode agile est au cœur de nombreux workflows numériques, influençant le développement d'applications cloud-native. Le DevOps, en brisant les barrières entre développement et exploitation, et la SRE, une mise en œuvre de l'approche DevOps, renforcent cette agilité. Les méthodes CI/CD, intégration continue et déploiement continu, accélèrent le déploiement de nouveaux codes.
 
-*Actuellement*, dans un contexte où les entreprises font face à une accélération de leur activité, la méthode agile est soutenue par des outils de gestion de projet agiles en open source tels que Redmine, GitLab, et Taiga.
+Dans un contexte où les entreprises font face à une accélération de leur activité, la méthode agile est soutenue par des outils de gestion de projet agiles en open source tels que Redmine, GitLab, et Taiga.
 
 **Frameworks agiles**
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a4f83d13-e70b-4dbd-a94e-c8543f55145a)  
 
 ![What-is-sprint](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/6ece82a3-ce01-474d-ac31-c3008607b4b6)  
+
 Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus de développement logiciel les plus utilisés, notamment la méthode DevOps et l'intégration continue et le déploiement continu (CI/CD). Ces frameworks s'appuient sur des outils variés pour faciliter leur mise en œuvre, que ce soit dans des environnements corporatifs avec des solutions comme Jira, ou dans des initiatives open source avec des outils tels que Redmine.
 
 Le développement continu (Continuous Development) et l'intégration continue (Continuous Integration) sont deux pratiques clés dans le domaine du développement logiciel visant à améliorer la qualité, l'efficacité et la rapidité du processus de développement. Voici une explication de chacune de ces pratiques :
@@ -68,9 +70,6 @@ Le développement continu (Continuous Development) et l'intégration continue (C
    - **Objectif :** Le développement continu va au-delà de l'intégration continue en automatisant également le processus de déploiement. L'objectif est d'automatiser la livraison du logiciel jusqu'à l'environnement de production, ce qui permet d'obtenir des versions de logiciel fonctionnelles, testées et déployables à tout moment.
    - **Fonctionnement :** Une fois que le code a passé avec succès les étapes de l'intégration continue, le processus de développement continu prend le relais. Cela peut inclure l'automatisation des tests supplémentaires, la création de packages d'installation, et éventuellement le déploiement sur des serveurs de production ou d'autres environnements.
    - **Avantages :** Le développement continu réduit les délais de mise sur le marché, minimise les erreurs liées au déploiement manuel, et offre une visibilité accrue sur l'état du code à chaque étape du processus de développement.
-
-
-![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a4f83d13-e70b-4dbd-a94e-c8543f55145a)
 
 
 Scrum est un cadre de travail agile utilisé pour gérer et développer des produits complexes. Voici les principaux concepts et processus de Scrum :  
