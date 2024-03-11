@@ -14,14 +14,12 @@ La méthode agile, introduite en 2001 en réponse aux limites de la méthode en 
 Dans les années 1990, les modèles traditionnels de gestion de projet, tels que le cycle en cascade et le cycle en V, ont été remis en question face aux changements technologiques rapides. Le cycle en cascade, également connu sous le nom de "waterfall," se caractérise par des phases linéaires et séquentielles, de la définition des exigences à la mise en service. D'un autre côté, le cycle en V, émergé des années 1970, représente un processus linéaire avec des phases de réalisation associées à des phases de validation, formant une structure en forme de V.
 ![Cycle en V](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/fe5461ee-4a98-46c6-82d1-05c048316c89)  
 
+**Définition du Cycle en V et Son Évolution**  
 
+Le cycle en V, dérivé du modèle en cascade, a été développé dans les années 1980, principalement pour les projets industriels, puis étendu aux projets informatiques. La lettre V symbolise la structure du cycle, avec une phase descendante suivie d'une phase ascendante, associant chaque phase de réalisation à une phase de validation. Cependant, à partir des années 2000, les méthodes agiles ont gagné en popularité en raison de leur adaptabilité aux changements rapides.  
+![Cycle de vie de projet en cascade](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/17278367-0666-4655-ab7d-f44fc20b14fe)   
 
-**Définition du Cycle en V et Son Évolution**
-
-Le cycle en V, dérivé du modèle en cascade, a été développé dans les années 1980, principalement pour les projets industriels, puis étendu aux projets informatiques. La lettre V symbolise la structure du cycle, avec une phase descendante suivie d'une phase ascendante, associant chaque phase de réalisation à une phase de validation. Cependant, à partir des années 2000, les méthodes agiles ont gagné en popularité en raison de leur adaptabilité aux changements rapides.
-![Cycle de vie de projet en cascade](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/17278367-0666-4655-ab7d-f44fc20b14fe)  
-
-**Avantages et Inconvénients du Cycle en V**
+**Avantages et Inconvénients du Cycle en V**  
 
 Le principal avantage du cycle en V réside dans son approche rigoureuse, évitant les retours en arrière constants. Chaque phase nécessite une documentation précise et exhaustive, assurant une progression solide. Cependant, l'inconvénient majeur réside dans l'effet tunnel, où les spécifications initiales rigides limitent l'adaptabilité aux changements.
 
