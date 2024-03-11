@@ -58,7 +58,6 @@ Aujourd'hui, la méthode agile est au cœur de nombreux workflows numériques, i
 Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus de développement logiciel les plus utilisés, notamment la méthode DevOps et l'intégration continue et le déploiement continu (CI/CD). Ces frameworks s'appuient sur des outils variés pour faciliter leur mise en œuvre, que ce soit dans des environnements corporatifs avec des solutions comme Jira, ou dans des initiatives open source avec des outils tels que Redmine.
 
 
-Il semble y avoir une petite confusion dans votre question, mais je vais essayer de vous fournir une réponse qui pourrait être utile. Si vous faites référence au "processus principe externe de la méthodologie agile Scrum", je présume que vous parlez du "processus externe" ou des "principes externes" liés à la méthodologie agile Scrum. Je vais vous fournir une explication des principes fondamentaux de Scrum et de son processus.
 
 Scrum est un cadre de travail agile utilisé pour gérer et développer des produits complexes. Voici les principaux concepts et processus de Scrum :  
 ![54ksa0Is7WiztNXeqL0fI0snREVVHLlcOZwLaSBH](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/699f8f1b-d753-4b94-81a4-b1bb857f01b1)
