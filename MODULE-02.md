@@ -20,7 +20,7 @@
 5. **Diagramme de Classes :**  
    Analyse des classes du système, de leurs attributs et relations, offrant une vue statique de la structure du logiciel.
 
-6. **Schéma du Diagramme de Base de Données :**  
+6. **Schéma et Diagrammes de Base de Données :**  
    Approfondissement des concepts fondamentaux liés à la base de données, reliant la modélisation UML à la conception physique de la base de données.
 
 **Méthodologie Merise :**
