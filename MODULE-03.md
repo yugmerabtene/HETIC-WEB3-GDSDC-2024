@@ -140,3 +140,5 @@ En éliminant les fonctionnalités inutiles, le code devient plus épuré et mai
      - Exercice 1 - Intégration de design patterns : Appliquez des design patterns tels que le Singleton, l'Observer, ou le Strategy pour résoudre des problèmes spécifiques.
      - Exercice 2 - Amélioration de la flexibilité : Utilisez des design patterns pour rendre le code plus flexible face aux changements futurs.
      - Exercice 3 - Compréhension du code : Analysez et discutez les design patterns utilisés dans un code existant pour améliorer la compréhension.
+    
+**RAJOUTER LES PRINCIPE KISS ET STUPID**
