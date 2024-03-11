@@ -27,9 +27,6 @@
 - **MCD (Modèle Conceptuel de Données) :**  
   Exploration approfondie du MCD pour représenter les entités, leurs attributs et les relations entre elles, fournissant une vision conceptuelle des données manipulées par le système.
 
-- **MCD (Modèle Conceptuel D) :** https://fr.wikipedia.org/wiki/Merise_(informatique)    
-  Précision du modèle conceptuel en identifiant les différentes entités et leurs liens, décrivant les aspects sémantiques du système.
-
 - **MPD (Modèle Physique de Données) :**  
   Passage du MCD au MPD en précisant la structure physique de la base de données, tenant compte des contraintes liées à la performance et à l'optimisation.
 
