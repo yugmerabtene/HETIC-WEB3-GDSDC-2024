@@ -88,6 +88,7 @@ Scrum est un cadre de travail agile utilisé pour gérer et développer des prod
 
 Les principes fondamentaux de Scrum incluent la transparence, l'inspection et l'adaptation. Scrum encourage la collaboration continue entre les membres de l'équipe, l'adaptation rapide aux changements et une amélioration continue du processus de développement.
 
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/3997c660-6b0f-4f7e-abb4-576597ec47b1)
 
 En plus des principes fondamentaux de Scrum que j'ai mentionnés précédemment, voici quelques autres principes clés associés à la méthodologie agile et des approches pour l'estimation, le chiffrage et la gestion des crises :
 
