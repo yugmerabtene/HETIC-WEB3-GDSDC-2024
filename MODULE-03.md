@@ -1,4 +1,3 @@
-**Clean Code, Lisibilité et Exercices Pratiques**
 
 1. **Introduction au Clean Code :**
    * **Définition :** Le "Clean Code" favorise la rédaction d'un code source lisible, maintenable et élégant, introduit par Robert C. Martin, également connu sous le nom d'"Uncle Bob". Il englobe des pratiques telles que la nomination adéquate des variables, la gestion des commentaires, la modularité, et la concision des fonctions.
