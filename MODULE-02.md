@@ -73,5 +73,8 @@ Dans le contexte de la conception de base de données en utilisant la méthodolo
    - Assurer la maintenance corrective et évolutive de la base de données en utilisant les principes de gestion de projet de MERISE.
    - Intégrer des pratiques agiles pour répondre aux changements dans les exigences ou les besoins de l'entreprise.
 
+**Outils :**
+https://draw.io
+
 **Documentation :**  
 https://github.com/spacekitteh/zephyrgc/blob/master/Architecture%20modelling/Oreilly.Learning.UML.2.0.Apr.2006.pdf
