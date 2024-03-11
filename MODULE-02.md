@@ -36,8 +36,8 @@
 - **Schéma Directeur de Données :**  
   Elaboration du schéma directeur de données pour guider la conception, l'évolution et l'exploitation de la base de données dans une perspective à plus long terme.
 
-En intégrant ces différentes perspectives et méthodologies, le module vise à fournir une approche complète de l'analyse et de la conception de systèmes à l'aide d'UML, Merise et les modèles de base de données.
-
+- **ERD (Entity-Relationship Diagram) :**  
+  Utilisation de l'ERD pour représenter graphiquement les entités, leurs attributs et les relations entre elles. Cet outil visuel facilite la compréhension et la communication des structures de données, contribuant ainsi à la modélisation et à la conception efficaces de la base de données.  
 
 Dans le contexte de la conception de base de données en utilisant la méthodologie MERISE, vous pouvez suivre les étapes suivantes, en intégrant des éléments des principes de l'approche objet si nécessaire :
 
