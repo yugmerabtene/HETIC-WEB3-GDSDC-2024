@@ -12,8 +12,6 @@
 
 **Module 3: Bonnes pratiques de développement et tests**
 
-**3.1 Bonnes pratiques de développement**
-
 | Sujet                                       | Contenu                                                                                                                                                                    |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Clean code et lisibilité                    | Exercices pratiques pour mettre en pratique les principes du Clean Code.                                                                                                   |
