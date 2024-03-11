@@ -82,7 +82,10 @@ Scrum est un cadre de travail agile utilisé pour gérer et développer des prod
 
 9. **Burndown Chart :** Un graphique visuel représentant la quantité de travail restant dans un sprint.
 
-10. **Product Increment :** Le résultat tangible du travail accompli pendant un sprint, ajouté au produit existant.  
+10. **Product Increment :** Le résultat tangible du travail accompli pendant un sprint, ajouté au produit existant.
+
+![Themes__epics__stories__tasks_in_agile__4_](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/2adc4dc6-27e9-4d2c-9bdb-729192b91540)
+
 
 
 
