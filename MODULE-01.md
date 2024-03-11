@@ -56,6 +56,7 @@ Aujourd'hui, la méthode agile est au cœur de nombreux workflows numériques, i
 
 Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus de développement logiciel les plus utilisés, notamment la méthode DevOps et l'intégration continue et le déploiement continu (CI/CD). Ces frameworks s'appuient sur des outils variés pour faciliter leur mise en œuvre, que ce soit dans des environnements corporatifs avec des solutions comme Jira, ou dans des initiatives open source avec des outils tels que Redmine.
 
+![What-is-sprint](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/6ece82a3-ce01-474d-ac31-c3008607b4b6)
 
 
 Scrum est un cadre de travail agile utilisé pour gérer et développer des produits complexes. Voici les principaux concepts et processus de Scrum :  
