@@ -59,12 +59,14 @@ Dans un contexte où les entreprises font face à une accélération de leur act
 
 Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus de développement logiciel les plus utilisés, notamment la méthode DevOps et l'intégration continue et le déploiement continu (CI/CD). Ces frameworks s'appuient sur des outils variés pour faciliter leur mise en œuvre, que ce soit dans des environnements corporatifs avec des solutions comme Jira, ou dans des initiatives open source avec des outils tels que Redmine.
 
-Le développement continu (Continuous Development) et l'intégration continue (Continuous Integration) sont deux pratiques clés dans le domaine du développement logiciel visant à améliorer la qualité, l'efficacité et la rapidité du processus de développement. Voici une explication de chacune de ces pratiques :
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/dda98941-c300-4387-ae59-160c94e93290)
+
 
 1. **Intégration Continue (Continuous Integration - CI) :**
    - **Objectif :** L'intégration continue vise à automatiser le processus d'intégration du code produit par différents développeurs dans un référentiel partagé. L'objectif principal est de détecter et de résoudre les conflits de code le plus tôt possible.
    - **Fonctionnement :** Les développeurs travaillent sur leurs branches de code respectives. Régulièrement, chaque modification est intégrée dans une branche principale (généralement la branche "master" ou "main"). À chaque intégration, un processus d'automatisation est déclenché, comprenant la compilation du code, l'exécution de tests automatisés et éventuellement le déploiement sur un environnement de test.
    - **Avantages :** L'intégration continue permet de détecter rapidement les erreurs de code, de minimiser les conflits d'intégration, d'améliorer la collaboration entre les développeurs et d'assurer une base de code stable.
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/0154f170-7765-4fd6-babd-7ed6bb0c9ffd)
 
 2. **Développement Continu (Continuous Development - CD) :**
    - **Objectif :** Le développement continu va au-delà de l'intégration continue en automatisant également le processus de déploiement. L'objectif est d'automatiser la livraison du logiciel jusqu'à l'environnement de production, ce qui permet d'obtenir des versions de logiciel fonctionnelles, testées et déployables à tout moment.
@@ -342,5 +344,6 @@ L'utilisation de Jira ou Trello offre plusieurs avantages :
 - **Visibilité globale :** L'utilisation combinée permet une visibilité complète sur l'avancement du projet, de la planification à la livraison.
 
 
+**Documentation :**
 
 
