@@ -24,9 +24,9 @@
 
 | Sujet                                      | Contenu                                                                                                                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tests unitaires, tests de non-régression, tests de sécurité | Utilisation d'outils open source tels que [JUnit](https://junit.org/) pour les tests unitaires, [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) pour la sécurité, et d'autres équivalents.   |
+| Tests unitaires, tests de non-régression, tests de sécurité | Utilisation d'outils  tels que [JUnit](https://junit.org/) pour les tests unitaires, [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) pour la sécurité, et d'autres équivalents.   |
 | Outils de détection des anomalies et des intrusions | Démonstrations pratiques sur la configuration et l'utilisation d'outils comme [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [ELK Stack](https://www.elastic.co/what-is/elk-stack), ainsi que [Splunk](https://www.splunk.com/) en version gratuite.  |
-| Outil de reporting d'incidents             | Personnalisation d'outils open source tels que [Redmine](https://www.redmine.org/) ou [GitLab Issues](https://docs.gitlab.com/ee/user/project/issues/).                    |
+| Outil de reporting d'incidents             | Personnalisation d'outils  tels que [Redmine](https://www.redmine.org/) ou [GitLab Issues](https://docs.gitlab.com/ee/user/project/issues/).                    |
 | Communication interne et externe pendant les crises | Pour la communication interne : Utilisation d'outils de messagerie instantanée comme [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software), et la mise en place de réunions régulières via [Zoom](https://zoom.us/). Pour la communication externe : Utilisation des réseaux sociaux (LinkedIn, Twitter, etc.), des communiqués de presse et la mise en place de pages dédiées sur le site web de l'entreprise.|
 
 **Module 5: Utilisation de métriques et d'analyses pour la gestion de crise**
@@ -41,15 +41,15 @@
 
 | Sujet                            | Contenu                                                                                                           |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Stratégie de sauvegarde          | Mise en place d'une stratégie efficace de sauvegarde des données critiques en utilisant des solutions open source comme [Bacula](https://www.bacula.org/) ou [Duplicity](http://duplicity.nongnu.org/). |
-| Plan de restauration              | Élaboration d'un plan clair pour restaurer rapidement les données en cas de perte, en utilisant des solutions open source telles que [Amanda](https://www.amanda.org/) ou [Restic](https://restic.net/).           |
+| Stratégie de sauvegarde          | Mise en place d'une stratégie efficace de sauvegarde des données critiques en utilisant des solutions  comme [Bacula](https://www.bacula.org/) ou [Duplicity](http://duplicity.nongnu.org/). |
+| Plan de restauration              | Élaboration d'un plan clair pour restaurer rapidement les données en cas de perte, en utilisant des solutions  telles que [Amanda](https://www.amanda.org/) ou [Restic](https://restic.net/).           |
 
 **Module 7: Tests post-déploiement et analyse des métriques**
 
 | Sujet                              | Contenu                                                                                                             |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Tests post-déploiement              | Insistance sur l'importance des retours d'expérience après les tests post-déploiement pour améliorer continuellement les processus.                                               |
-| Analyse des métriques post-déploiement | Utilisation des métriques pour évaluer l'impact des changements et détecter les anomalies, avec des outils open source comme [Grafana](https://grafana.com/) ou [Prometheus](https://prometheus.io/).                         |
+| Analyse des métriques post-déploiement | Utilisation des métriques pour évaluer l'impact des changements et détecter les anomalies, avec des outils  comme [Grafana](https://grafana.com/) ou [Prometheus](https://prometheus.io/).                         |
 
 **Module 8: Référentiels et aspects réglementaires**
 
