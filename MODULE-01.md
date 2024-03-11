@@ -315,7 +315,7 @@ Les deux outils, Jira et Trello, peuvent être intégrés dans un processus Scru
 
 **Avantages**
 
-L'utilisation combinée de Jira et Trello offre plusieurs avantages :
+L'utilisation de Jira ou Trello offre plusieurs avantages :
 
 - **Flexibilité :** Les équipes peuvent choisir l'outil qui correspond le mieux à leurs besoins spécifiques, tout en profitant de l'intégration pour une gestion transparente.
 
