@@ -1,20 +1,119 @@
-
-1. **Introduction au Clean Code :**
+**Introduction au Clean Code :**
    * **Définition :** Le "Clean Code" favorise la rédaction d'un code source lisible, maintenable et élégant, introduit par Robert C. Martin, également connu sous le nom d'"Uncle Bob". Il englobe des pratiques telles que la nomination adéquate des variables, la gestion des commentaires, la modularité, et la concision des fonctions.
 
    * **Exercices pratiques :**
-     - Exercice 1 - Bonne nommation des variables : Remplacez les noms de variables peu descriptifs par des noms clairs et explicites.
-     - Exercice 2 - Gestion des commentaires : Réduisez la dépendance aux commentaires en rendant le code auto-explicatif.
-     - Exercice 3 - Modularité : Créez des modules distincts pour des fonctionnalités spécifiques, favorisant ainsi la lisibilité.
-     - Exercice 4 - Concision des fonctions : Refactorez des fonctions longues en les rendant plus concises et faciles à comprendre.
+     - **Exemple concret en PHP :**
+     
+       - **Exercice 1 - Bonne nommation des variables :**
+       ```php
+       <?php
+       
+       // Mauvaise variable
+       $nbrOfStudents = 50;
+       
+       // Bonne variable
+       $numberOfStudents = 50;
+       ```
 
-2. **Lean Code :**
-   * **Définition :** Le "Lean Code" vise à éliminer le gaspillage, partageant des principes avec le mouvement Lean. Dans le contexte du code, cela implique l'élimination de fonctionnalités inutiles, la réduction de la complexité, et la maximisation de la valeur du code produit.
+       - **Exercice 2 - Gestion des commentaires :**
+       ```php
+       <?php
+       
+       // Mauvais commentaire
+       // La fonction calcule la somme des éléments d'un tableau
+       function sumArray($arr) {
+           $sum = 0;
+           foreach ($arr as $value) {
+               $sum += $value;
+           }
+           return $sum;
+       }
+       ```
 
-   * **Exercices pratiques :**
-     - Exercice 1 - Réduction de la complexité : Identifiez et simplifiez les parties complexes du code.
-     - Exercice 2 - Élimination de fonctionnalités superflues : Identifiez et retirez les fonctionnalités qui n'apportent pas de valeur significative.
-     - Exercice 3 - Maximisation de la valeur du code : Priorisez et mettez en œuvre des fonctionnalités qui apportent une valeur directe.
+       - **Exercice 3 - Modularité :**
+       ```php
+       <?php
+       
+       // Module 1 : Gestion des utilisateurs
+       class UserHandler {
+           // ... méthodes pour gérer les utilisateurs
+       }
+       
+       // Module 2 : Gestion des commandes
+       class OrderHandler {
+           // ... méthodes pour gérer les commandes
+       }
+       ```
+
+       - **Exercice 4 - Concision des fonctions :**
+       ```php
+       <?php
+       
+       function calculateAverage($numbers) {
+           $sum = array_sum($numbers);
+           $count = count($numbers);
+           return $sum / $count;
+       }
+       ```
+Bien sûr, reprenons chaque point avec les exemples de code en PHP :
+
+### 2. Lean Code :
+
+**Définition :** Le "Lean Code" vise à éliminer le gaspillage, partageant des principes avec le mouvement Lean. Dans le contexte du code, cela implique l'élimination de fonctionnalités inutiles, la réduction de la complexité, et la maximisation de la valeur du code produit.
+
+**Exercices pratiques :**
+
+#### Exercice 1 - Réduction de la complexité :
+```php
+// Avant la réduction de la complexité
+function complexFunction($data) {
+    // Beaucoup de logique complexe ici...
+    if ($data['condition']) {
+        // Plus de logique compliquée...
+    } else {
+        // Encore plus de logique complexe...
+    }
+    // ... d'autres opérations complexes ...
+    return $result;
+}
+
+// Après la réduction de la complexité
+function simplifiedFunction($data) {
+    // Logique simplifiée et directe...
+    if ($data['condition']) {
+        // Logique spécifique...
+    } else {
+        // Logique alternative...
+    }
+    // ... opérations restantes ...
+    return $result;
+}
+```
+
+En réduisant la complexité, le code devient plus lisible et plus facile à comprendre.
+
+#### Exercice 2 - Élimination de fonctionnalités superflues :
+```php
+// Avant l'élimination de fonctionnalités superflues
+function unnecessaryFeature($data) {
+    // Fonctionnalité qui n'est plus utilisée...
+    // ... beaucoup de code lié à cette fonctionnalité ...
+    return $result;
+}
+
+// Après l'élimination de fonctionnalités superflues
+function mainFunction($data) {
+    // Seules les fonctionnalités nécessaires sont conservées...
+    // ... code nécessaire pour la fonction principale ...
+    return $result;
+}
+```
+
+En éliminant les fonctionnalités inutiles, le code devient plus épuré et maintenable.
+
+#### Exercice 3 - Maximisation de la valeur du code :
+*Note: L'exercice 3 est plus conceptuel, mais dans la pratique, cela pourrait impliquer de prioriser et de mettre en œuvre des fonctionnalités qui apportent une valeur directe.*
+
 
 3. **Programmation Orientée Objet (POO) :**
    * **Définition :** La POO organise le code autour de "classes" et d'"objets", favorisant la réutilisation et permettant une modélisation du monde réel avec des concepts tels que l'encapsulation, l'héritage, et le polymorphisme.
