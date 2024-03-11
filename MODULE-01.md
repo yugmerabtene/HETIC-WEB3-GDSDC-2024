@@ -132,50 +132,50 @@ L'agilité repose sur la flexibilité, l'adaptabilité et la collaboration const
    a. Utilisez la technique du Planning Poker pour estimer la complexité de trois tâches de développement de fonctionnalités.
    b. Pratiquez l'estimation relative en comparant la complexité de deux tâches et en déduisant la complexité d'une troisième.
 
-### 2. **Gestion de la Dette Technique :**
-   a. Identifiez trois exemples potentiels de dette technique dans un projet en cours (par exemple, des morceaux de code non documentés, des retards dans la mise à jour des bibliothèques, etc.).
-   b. Proposez des solutions pour résoudre chaque exemple de dette technique identifié.
+### 2. **Gestion de la Dette Technique :**  
+   a. Identifiez trois exemples potentiels de dette technique dans un projet en cours (par exemple, des morceaux de code non documentés, des retards dans la mise à jour des bibliothèques, etc.).    
+   b. Proposez des solutions pour résoudre chaque exemple de dette technique identifié.    
 
-### 3. **Évaluation de la Durée d'une Tâche :**
-   a. Sélectionnez une tâche spécifique à partir d'un projet et décomposez-la en sous-tâches.
-   b. Estimez le temps nécessaire pour chaque sous-tâche en utilisant une approche basée sur l'expérience ou le consensus de l'équipe.
-   c. Calculez la durée totale de la tâche en agrégeant les estimations des sous-tâches.
+### 3. **Évaluation de la Durée d'une Tâche :**  
+   a. Sélectionnez une tâche spécifique à partir d'un projet et décomposez-la en sous-tâches.  
+   b. Estimez le temps nécessaire pour chaque sous-tâche en utilisant une approche basée sur l'expérience ou le consensus de l'équipe.  
+   c. Calculez la durée totale de la tâche en agrégeant les estimations des sous-tâches.  
 
-### 4. **Priorisation des Tâches :**
-   a. Classez trois tâches en fonction de leur importance pour le succès global du projet.
-   b. Justifiez votre classement en mettant en avant des critères tels que la valeur ajoutée, l'impact sur les utilisateurs finaux, etc.
+### 4. **Priorisation des Tâches :**  
+   a. Classez trois tâches en fonction de leur importance pour le succès global du projet.  
+   b. Justifiez votre classement en mettant en avant des critères tels que la valeur ajoutée, l'impact sur les utilisateurs finaux, etc.  
 
 ### 5. **Gestion de Crise :**
    a. Simulez une situation de crise potentielle liée à un retard majeur dans un livrable.
    b. Identifiez les étapes immédiates que vous prendriez pour atténuer la crise, y compris la communication avec les parties prenantes.
 
 ### 6. **Analyse Post-Sprint :**
-   a. Après la fin d'un sprint, analysez les résultats en comparant les estimations initiales avec les temps réels.
-   b. Identifiez les écarts et discutez des raisons possibles de ces écarts.
+   a. Après la fin d'un sprint, analysez les résultats en comparant les estimations initiales avec les temps réels.  
+   b. Identifiez les écarts et discutez des raisons possibles de ces écarts.  
 
-### 7. **Stratégies de Réduction de la Dette Technique :**
-   a. Proposez trois stratégies spécifiques pour réduire la dette technique dans un projet sans compromettre la qualité du produit.
+### 7. **Stratégies de Réduction de la Dette Technique :**  
+   a. Proposez trois stratégies spécifiques pour réduire la dette technique dans un projet sans compromettre la qualité du produit.  
 
-### 8. **Estimation du Temps de Résolution des Problèmes :**
-   a. Identifiez un problème de développement spécifique et estimez le temps nécessaire pour le résoudre en collaboration avec l'équipe.
+### 8. **Estimation du Temps de Résolution des Problèmes :**  
+   a. Identifiez un problème de développement spécifique et estimez le temps nécessaire pour le résoudre en collaboration avec l'équipe.  
 
-### 9. **Évaluation de la Charge de Travail :**
-   a. Distribuez équitablement la charge de travail pour une série de tâches entre les membres de l'équipe, en tenant compte de leurs compétences et disponibilités.
+### 9. **Évaluation de la Charge de Travail :**  
+   a. Distribuez équitablement la charge de travail pour une série de tâches entre les membres de l'équipe, en tenant compte de leurs compétences et disponibilités.  
 
-### 10. **Simulation de Déploiement :**
-   a. Simulez un déploiement en identifiant les étapes clés, les tests nécessaires et les éventuelles interruptions de service.
+### 10. **Simulation de Déploiement :**  
+   a. Simulez un déploiement en identifiant les étapes clés, les tests nécessaires et les éventuelles interruptions de service.  
 
 
-### 11. **Poker**
-**Poker Planning - Guide Pratique pour une Estimation Agile**
+### 11. **Poker**  
+**Poker Planning - Guide Pratique pour une Estimation Agile**  
 
-Le Poker Planning, ou Scrum Poker, se présente comme une méthode d'estimation agile puissante pour allouer efficacement des ressources aux tâches du Product Backlog. Voici un guide pratique détaillé pour comprendre et appliquer cette technique au sein de votre équipe de développement :
+Le Poker Planning, ou Scrum Poker, se présente comme une méthode d'estimation agile puissante pour allouer efficacement des ressources aux tâches du Product Backlog. Voici un guide pratique détaillé pour comprendre et appliquer cette technique au sein de votre équipe de développement :  
 
-**1. Qu'est-ce que le Poker Planning ?**
-Le Poker Planning est une technique collaborative qui permet à une équipe Scrum d'estimer collectivement l'effort nécessaire pour chaque tâche du Product Backlog. Cette méthode utilise des cartes de poker, qu'elles soient physiques ou virtuelles, pour parvenir à un consensus sur les estimations.
+**1. Qu'est-ce que le Poker Planning ?**  
+Le Poker Planning est une technique collaborative qui permet à une équipe Scrum d'estimer collectivement l'effort nécessaire pour chaque tâche du Product Backlog. Cette méthode utilise des cartes de poker, qu'elles soient physiques ou virtuelles, pour parvenir à un consensus sur les estimations.  
 
-**2. Comment Jouer au Poker Planning : La Collaboration Agile**
-   a. **Préparer le Terrain :** Expliquez le processus aux membres de l'équipe qui peuvent utiliser des cartes à jouer pour estimer la taille des user stories dans le prochain sprint.
+**2. Comment Jouer au Poker Planning : La Collaboration Agile**  
+   a. **Préparer le Terrain :** Expliquez le processus aux membres de l'équipe qui peuvent utiliser des cartes à jouer pour estimer la taille des user stories dans le prochain sprint.  
    b. **Distribuer les Cartes de Poker :** Chaque participant reçoit un jeu de cartes numérotées selon la suite de Fibonacci (0, 1, 2, 3, 5, 8, 13, 21, etc.).
    c. **Lire une User Story :** Le modérateur lit une user story en fournissant autant de détails que possible.
    d. **Discuter de la Story Ensemble :** Les membres de l'équipe discutent des détails de la user story, des contraintes éventuelles, et des membres impliqués.
