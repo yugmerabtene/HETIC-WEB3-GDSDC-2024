@@ -108,16 +108,6 @@ En plus des principes fondamentaux de Scrum que j'ai mentionnés précédemment,
 
 2. **Coûts fixes et variables :** Identifier les coûts fixes et variables associés à chaque élément du cahier des charges pour une meilleure compréhension financière.
 
-### Gestion des situations de crise :
-
-1. **Communication transparente :** Communiquer ouvertement et régulièrement avec toutes les parties prenantes pour partager les problèmes, les risques et les plans d'action.
-
-2. **Priorisation :** Identifier les problèmes critiques et prioriser leur résolution en fonction de leur impact sur le projet.
-
-3. **Rétrospectives d'urgence :** Organiser des réunions spéciales pour évaluer les problèmes, en tirer des leçons et mettre en place des améliorations immédiates.
-
-4. **Équipe résiliente :** Fournir un soutien à l'équipe pour maintenir la motivation et la résilience face aux défis inattendus.
-
 ### Déploiement :
 
 1. **Déploiement progressif :** Mettre en place des déploiements graduels pour minimiser les risques et permettre une identification précoce des problèmes.
@@ -195,9 +185,9 @@ Le Poker Planning est une technique collaborative qui permet à une équipe Scru
    - Utilisez des cartes de poker (virtuelles ou physiques).
    - Chaque participant estime l'effort individuel.
    - Discutez des divergences et refaites l'estimation si nécessaire.
+
 Le Planning Poker Scrum, qu'est-ce que c'est ?
-Date : 1er août 2016
-Durée de lecture : 7 minutes
+
 
 L'estimation des charges pour la réalisation d'une action ou d'une fonctionnalité constitue l'une des tâches les plus complexes de la gestion de projet. Elle requiert la collaboration entre experts techniques et fonctionnels, dépendant largement de l'expérience des participants et de leur connaissance du client et de son environnement technique. La méthode agile Scrum propose un outil efficace pour ces estimations : le Planning Poker Scrum.
 
@@ -231,33 +221,6 @@ La méthode permet une expression libre et équitable des opinions, assurant des
 Les cartes du Planning Poker Scrum peuvent être facilement fabriquées à partir de modèles téléchargeables en ligne, puis imprimées.
 
 
-**Principes et Exercices pour un Projet Informatique Agile :**
-
-### Principes Agile :
-
-1. **Transparence :**
-   - **Principe :** Tous les aspects du projet, y compris les défis, les progrès et les décisions, sont visibles et accessibles à l'équipe.
-   - **Exercice :** Utiliser des tableaux Scrum, des outils de suivi de projet en temps réel, et organiser des réunions régulières de revue de projet.
-
-2. **Adaptabilité :**
-   - **Principe :** Le projet est flexible et peut s'adapter aux changements de besoins du client ou aux évolutions du marché.
-   - **Exercice :** Intégrer des itérations courtes et régulières pour permettre des ajustements fréquents. Pratiquer la rétrospective à la fin de chaque sprint pour identifier des améliorations.
-
-3. **Collaboration :**
-   - **Principe :** La communication et la coopération constantes entre les membres de l'équipe, les parties prenantes et le client sont cruciales.
-   - **Exercice :** Organiser des sessions de pair-programming, encourager les discussions fréquentes, et mettre en place des outils de communication efficaces.
-
-4. **Livraison Continue :**
-   - **Principe :** Le produit est livré de manière incrémentielle, permettant un feedback rapide et des ajustements continus.
-   - **Exercice :** Implémenter des pipelines d'intégration continue/déploiement continu (CI/CD), assurant une livraison automatisée et régulière des fonctionnalités.
-
-5. **Priorisation :**
-   - **Principe :** Les fonctionnalités sont priorisées en fonction de la valeur ajoutée pour le client.
-   - **Exercice :** Utiliser des techniques d'estimation comme le Planning Poker pour attribuer des story points et prioriser le backlog.
-
-6. **Itérations et Feedback :**
-   - **Principe :** Les itérations courtes permettent d'obtenir un feedback fréquent, favorisant l'amélioration continue.
-   - **Exercice :** Planifier des sprints courts, recueillir des feedbacks réguliers du client, et ajuster le produit en conséquence.
 
 ### Exercices Techniques Agile :
 
@@ -292,6 +255,16 @@ Les cartes du Planning Poker Scrum peuvent être facilement fabriquées à parti
 8. **Kanban Board :**
    - **Objectif :** Visualiser le flux de travail et améliorer la gestion des tâches.
    - **Exercice :** Mettre en place un tableau Kanban pour suivre visuellement les étapes de chaque tâche, favorisant une gestion transparente du travail.
+
+### Gestion des situations de crise :
+
+1. **Communication transparente :** Communiquer ouvertement et régulièrement avec toutes les parties prenantes pour partager les problèmes, les risques et les plans d'action.
+
+2. **Priorisation :** Identifier les problèmes critiques et prioriser leur résolution en fonction de leur impact sur le projet.
+
+3. **Rétrospectives d'urgence :** Organiser des réunions spéciales pour évaluer les problèmes, en tirer des leçons et mettre en place des améliorations immédiates.
+
+4. **Équipe résiliente :** Fournir un soutien à l'équipe pour maintenir la motivation et la résilience face aux défis inattendus.
 
 
 
@@ -337,7 +310,7 @@ Jira et Trello sont deux outils de gestion de projet développés par Atlassian,
 
 Les deux outils, Jira et Trello, peuvent être intégrés dans un processus Scrum pour répondre aux besoins spécifiques de chaque équipe. Jira, en tant que plateforme plus robuste, peut être utilisé pour des projets complexes nécessitant une planification détaillée et une gestion approfondie des problèmes. Trello, en revanche, peut être préféré pour des équipes Scrum plus petites ou des projets moins complexes, grâce à son approche visuelle simple.
 
-**Avantages de l'utilisation combinée**
+**Avantages**
 
 L'utilisation combinée de Jira et Trello offre plusieurs avantages :
 
