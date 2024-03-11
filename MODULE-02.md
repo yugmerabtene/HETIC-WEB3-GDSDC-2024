@@ -27,17 +27,14 @@
 - **MCD (Modèle Conceptuel de Données) :**  
   Exploration approfondie du MCD pour représenter les entités, leurs attributs et les relations entre elles, fournissant une vision conceptuelle des données manipulées par le système.
 
-- **MPD (Modèle Physique de Données) :**  
-  Passage du MCD au MPD en précisant la structure physique de la base de données, tenant compte des contraintes liées à la performance et à l'optimisation.
-
 - **MLD (Modèle Logique de Données) :**  
-  Définition du MLD pour structurer logiquement la base de données, établissant des règles d'intégrité et décrivant les relations entre les tables.
+  Passage du MCD au MLD en précisant la structure logique de la base de données, établissant des règles d'intégrité et décrivant les relations entre les tables.
 
-- **Schéma Directeur de Données :**  
-  Elaboration du schéma directeur de données pour guider la conception, l'évolution et l'exploitation de la base de données dans une perspective à plus long terme.
+- **MPD (Modèle Physique de Données) :**  
+  Passage du MLD au MPD en spécifiant la structure physique de la base de données, tenant compte des contraintes liées à la performance et à l'optimisation.
 
 - **ERD (Entity-Relationship Diagram) :**  
-  Utilisation de l'ERD pour représenter graphiquement les entités, leurs attributs et les relations entre elles. Cet outil visuel facilite la compréhension et la communication des structures de données, contribuant ainsi à la modélisation et à la conception efficaces de la base de données.  
+  Utilisation de l'ERD pour représenter graphiquement les entités, leurs attributs et les relations entre elles. Cet outil visuel facilite la compréhension et la communication des structures de données, contribuant ainsi à la modélisation et à la conception efficaces de la base de données.
 
 Dans le contexte de la conception de base de données en utilisant la méthodologie MERISE, vous pouvez suivre les étapes suivantes, en intégrant des éléments des principes de l'approche objet si nécessaire :
 
