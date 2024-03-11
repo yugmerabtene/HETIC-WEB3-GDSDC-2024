@@ -296,10 +296,59 @@ Les cartes du Planning Poker Scrum peuvent être facilement fabriquées à parti
 
 
 
+**Utilisation de Jira et Trello dans la Gestion de Projet Agile/Scrum**
 
-**Utilisation de Jira et Trello**
-Presentation :
-Utilisation :
+| Sujet                                  | Contenu                                                                                                       |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Introduction à Jira et Trello           | Jira et Trello sont des outils de gestion de projet largement utilisés, développés respectivement par Atlassian et Atlassian (Trello est maintenant détenu par Atlassian). Ces outils offrent des fonctionnalités puissantes pour la planification, le suivi et la gestion de projets agiles.                   |
+| Jira                                   | Jira est une plateforme complète de gestion de projet qui prend en charge diverses méthodologies, y compris Scrum et Kanban. Elle offre des fonctionnalités telles que la création de tâches, la planification de sprints, la gestion des problèmes, et la génération de rapports. Jira facilite la collaboration au sein des équipes et assure une visibilité complète sur l'avancement du projet. |
+| Trello                                 | Trello, quant à lui, est un outil de gestion de projet visuel basé sur des tableaux et des cartes. Il utilise un format de type Kanban pour organiser les tâches et offre une approche intuitive de la gestion de projet. Trello est particulièrement adapté aux équipes qui préfèrent une approche visuelle et flexible de la planification et de la collaboration.   |
+| Intégration de Jira et Trello dans Scrum | Les deux outils peuvent être intégrés dans un processus Scrum. Jira, avec ses fonctionnalités avancées, peut être utilisé pour gérer l'ensemble du cycle de vie du projet, de la planification à la livraison. Trello, avec sa simplicité et son approche visuelle, peut être utilisé pour des équipes Scrum plus petites ou pour des projets moins complexes.            |
+| Avantages de l'utilisation combinée     | L'utilisation combinée de Jira et Trello permet de tirer parti des forces de chaque outil. Jira offre une gestion détaillée des projets et une planification avancée, tandis que Trello simplifie la collaboration et la visualisation des tâches. Cette combinaison permet une gestion efficace des projets agiles, quel que soit leur niveau de complexité.  | 
+
+**Introduction à Jira et Trello**
+
+Jira et Trello sont deux outils de gestion de projet développés par Atlassian, une entreprise renommée dans le domaine du développement logiciel. Ces outils offrent des fonctionnalités avancées pour faciliter la gestion de projets agiles, en particulier dans le cadre des méthodologies Scrum et Kanban.
+
+**Jira**
+
+[Jira](https://www.atlassian.com/software/jira) est une plateforme de gestion de projet complète qui permet aux équipes de planifier, suivre, et gérer l'ensemble du cycle de vie d'un projet. Il prend en charge diverses méthodologies, notamment Scrum, Kanban, et d'autres méthodes personnalisées. Voici quelques-unes des fonctionnalités clés de Jira :
+
+- **Création de tâches :** Les équipes peuvent créer des tâches, des histoires utilisateur, des bugs, et d'autres types d'éléments directement dans Jira.
+
+- **Planification de sprints :** Jira facilite la planification et la gestion de sprints pour les équipes Scrum, permettant une livraison itérative et incrémentale du produit.
+
+- **Gestion des problèmes :** Les problèmes peuvent être créés, attribués, et suivis tout au long du cycle de vie du projet, assurant une résolution efficace des obstacles.
+
+- **Génération de rapports :** Jira propose une variété de rapports, tels que les burndown charts et les rapports de sprint, permettant aux équipes et aux parties prenantes de suivre l'avancement du projet.
+
+**Trello**
+
+[Trello](https://trello.com/) se distingue par son approche visuelle et sa simplicité d'utilisation. Il repose sur des tableaux, des listes, et des cartes pour organiser les tâches et les projets. Voici quelques caractéristiques de Trello :
+
+- **Tableaux et cartes :** Les équipes peuvent créer des tableaux pour représenter des projets, des listes pour représenter des étapes du processus, et des cartes pour représenter des tâches spécifiques.
+
+- **Glisser-déposer :** Trello utilise une interface intuitive de glisser-déposer, facilitant la gestion des tâches et des flux de travail.
+
+- **Collaboration en temps réel :** Les membres de l'équipe peuvent collaborer en temps réel sur les cartes, en ajoutant des commentaires, des pièces jointes, et en assignant des tâches.
+
+- **Intégrations :** Trello propose diverses intégrations avec des outils tiers, ce qui permet d'étendre ses fonctionnalités.
+
+**Intégration de Jira et Trello dans Scrum**
+
+Les deux outils, Jira et Trello, peuvent être intégrés dans un processus Scrum pour répondre aux besoins spécifiques de chaque équipe. Jira, en tant que plateforme plus robuste, peut être utilisé pour des projets complexes nécessitant une planification détaillée et une gestion approfondie des problèmes. Trello, en revanche, peut être préféré pour des équipes Scrum plus petites ou des projets moins complexes, grâce à son approche visuelle simple.
+
+**Avantages de l'utilisation combinée**
+
+L'utilisation combinée de Jira et Trello offre plusieurs avantages :
+
+- **Flexibilité :** Les équipes peuvent choisir l'outil qui correspond le mieux à leurs besoins spécifiques, tout en profitant de l'intégration pour une gestion transparente.
+
+- **Simplicité et puissance :** Trello offre une interface simple et visuelle, tandis que Jira fournit des fonctionnalités avancées pour la gestion détaillée des projets.
+
+- **Collaboration efficace :** Les deux outils favorisent la collaboration au sein de l'équipe, permettant aux membres de travailler de manière transparente sur les tâches assignées.
+
+- **Visibilité globale :** L'utilisation combinée permet une visibilité complète sur l'avancement du projet, de la planification à la livraison.
 
 
 
