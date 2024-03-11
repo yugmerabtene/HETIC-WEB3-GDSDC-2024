@@ -10,7 +10,7 @@
 |--------------------------------------|--------------------------------------------------------------------------------------------------|
 | Importance de la documentation UML   | Utilisation de la documentation générée par UML pour la compréhension du système par les intervenants. |
 
-**Module 3: Bonnes pratiques de développement et tests**
+**Module 3: Bonnes pratiques de développement**
 
 | Sujet                                       | Contenu                                                                                                                                                                    |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +25,7 @@
 | Sujet                                      | Contenu                                                                                                                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tests unitaires, tests de non-régression, tests de sécurité | Utilisation d'outils open source tels que [JUnit](https://junit.org/) pour les tests unitaires, [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) pour la sécurité, et d'autres équivalents.   |
-| Outils de détection des anomalies et des intrusions | Démonstrations pratiques sur la configuration et l'utilisation d'outils open source comme [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [ELK Stack](https://www.elastic.co/what-is/elk-stack), ainsi que [Splunk](https://www.splunk.com/) en version gratuite.  |
+| Outils de détection des anomalies et des intrusions | Démonstrations pratiques sur la configuration et l'utilisation d'outils comme [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [ELK Stack](https://www.elastic.co/what-is/elk-stack), ainsi que [Splunk](https://www.splunk.com/) en version gratuite.  |
 | Outil de reporting d'incidents             | Personnalisation d'outils open source tels que [Redmine](https://www.redmine.org/) ou [GitLab Issues](https://docs.gitlab.com/ee/user/project/issues/).                    |
 | Communication interne et externe pendant les crises | Pour la communication interne : Utilisation d'outils de messagerie instantanée comme [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software), et la mise en place de réunions régulières via [Zoom](https://zoom.us/). Pour la communication externe : Utilisation des réseaux sociaux (LinkedIn, Twitter, etc.), des communiqués de presse et la mise en place de pages dédiées sur le site web de l'entreprise.|
 
