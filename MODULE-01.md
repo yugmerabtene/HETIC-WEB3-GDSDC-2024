@@ -81,7 +81,10 @@ Scrum est un cadre de travail agile utilisé pour gérer et développer des prod
 
 9. **Burndown Chart :** Un graphique visuel représentant la quantité de travail restant dans un sprint.
 
-10. **Product Increment :** Le résultat tangible du travail accompli pendant un sprint, ajouté au produit existant.
+10. **Product Increment :** Le résultat tangible du travail accompli pendant un sprint, ajouté au produit existant.  
+
+![agile-scrum-methodology](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/2a2e5149-f5c0-498d-939f-9d6b9627ede7)  
+
 
 Les principes fondamentaux de Scrum incluent la transparence, l'inspection et l'adaptation. Scrum encourage la collaboration continue entre les membres de l'équipe, l'adaptation rapide aux changements et une amélioration continue du processus de développement.
 
