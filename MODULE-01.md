@@ -57,6 +57,19 @@ Aujourd'hui, la méthode agile est au cœur de nombreux workflows numériques, i
 ![What-is-sprint](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/6ece82a3-ce01-474d-ac31-c3008607b4b6)  
 Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus de développement logiciel les plus utilisés, notamment la méthode DevOps et l'intégration continue et le déploiement continu (CI/CD). Ces frameworks s'appuient sur des outils variés pour faciliter leur mise en œuvre, que ce soit dans des environnements corporatifs avec des solutions comme Jira, ou dans des initiatives open source avec des outils tels que Redmine.
 
+Le développement continu (Continuous Development) et l'intégration continue (Continuous Integration) sont deux pratiques clés dans le domaine du développement logiciel visant à améliorer la qualité, l'efficacité et la rapidité du processus de développement. Voici une explication de chacune de ces pratiques :
+
+1. **Intégration Continue (Continuous Integration - CI) :**
+   - **Objectif :** L'intégration continue vise à automatiser le processus d'intégration du code produit par différents développeurs dans un référentiel partagé. L'objectif principal est de détecter et de résoudre les conflits de code le plus tôt possible.
+   - **Fonctionnement :** Les développeurs travaillent sur leurs branches de code respectives. Régulièrement, chaque modification est intégrée dans une branche principale (généralement la branche "master" ou "main"). À chaque intégration, un processus d'automatisation est déclenché, comprenant la compilation du code, l'exécution de tests automatisés et éventuellement le déploiement sur un environnement de test.
+   - **Avantages :** L'intégration continue permet de détecter rapidement les erreurs de code, de minimiser les conflits d'intégration, d'améliorer la collaboration entre les développeurs et d'assurer une base de code stable.
+
+2. **Développement Continu (Continuous Development - CD) :**
+   - **Objectif :** Le développement continu va au-delà de l'intégration continue en automatisant également le processus de déploiement. L'objectif est d'automatiser la livraison du logiciel jusqu'à l'environnement de production, ce qui permet d'obtenir des versions de logiciel fonctionnelles, testées et déployables à tout moment.
+   - **Fonctionnement :** Une fois que le code a passé avec succès les étapes de l'intégration continue, le processus de développement continu prend le relais. Cela peut inclure l'automatisation des tests supplémentaires, la création de packages d'installation, et éventuellement le déploiement sur des serveurs de production ou d'autres environnements.
+   - **Avantages :** Le développement continu réduit les délais de mise sur le marché, minimise les erreurs liées au déploiement manuel, et offre une visibilité accrue sur l'état du code à chaque étape du processus de développement.
+
+
 ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a4f83d13-e70b-4dbd-a94e-c8543f55145a)
 
 
