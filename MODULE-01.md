@@ -52,7 +52,7 @@ Aujourd'hui, la méthode agile est au cœur de nombreux workflows numériques, i
 
 Dans un contexte où les entreprises font face à une accélération de leur activité, la méthode agile est soutenue par des outils de gestion de projet agiles en open source tels que Redmine, GitLab, et Taiga.
 
-**Frameworks agiles**
+**Frameworks agiles**  
 ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a4f83d13-e70b-4dbd-a94e-c8543f55145a)  
 
 ![What-is-sprint](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/6ece82a3-ce01-474d-ac31-c3008607b4b6)  
