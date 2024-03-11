@@ -28,47 +28,13 @@
   Exploration approfondie du MCD pour représenter les entités, leurs attributs et les relations entre elles, fournissant une vision conceptuelle des données manipulées par le système.
 
 - **MLD (Modèle Logique de Données) :**  
-  Passage du MCD au MLD en précisant la structure logique de la base de données, établissant des règles d'intégrité et décrivant les relations entre les tables.
+  Passage du MCD au MLD les entités deviennent des tables.
 
 - **MPD (Modèle Physique de Données) :**  
   Passage du MLD au MPD en spécifiant la structure physique de la base de données, tenant compte des contraintes liées à la performance et à l'optimisation.
 
 - **ERD (Entity-Relationship Diagram) :**  
   Utilisation de l'ERD pour représenter graphiquement les entités, leurs attributs et les relations entre elles. Cet outil visuel facilite la compréhension et la communication des structures de données, contribuant ainsi à la modélisation et à la conception efficaces de la base de données.
-
-Dans le contexte de la conception de base de données en utilisant la méthodologie MERISE, vous pouvez suivre les étapes suivantes, en intégrant des éléments des principes de l'approche objet si nécessaire :
-
-**1. Étude préalable :**
-   - Identifier les besoins du système d'information.
-   - Utiliser des techniques de MERISE telles que les interviews et l'analyse documentaire pour recueillir les exigences.
-
-**2. Modélisation conceptuelle (MCD) :**
-   - Utiliser le modèle Entité-Association (MEA) de MERISE pour représenter les entités métier et leurs relations.
-   - Appliquer des concepts de l'approche objet pour identifier des classes et des associations d'objets.
-
-**3. Étude détaillée :**
-   - Affiner le modèle conceptuel en utilisant des techniques de MERISE.
-   - Élaborer un modèle logique en utilisant le modèle Organisation-Objet (MOO) pour décrire les processus métier.
-
-**4. Modélisation logique (MLD) :**
-   - Transformer le modèle conceptuel en un modèle logique de données (MLD) en utilisant des outils de MERISE.
-   - Normaliser les tables pour garantir la cohérence et l'efficacité des données.
-
-**5. Conception détaillée :**
-   - Définir les détails d'implémentation des tables, des relations et des contraintes de la base de données.
-   - Appliquer des principes de l'approche objet si nécessaire pour définir des procédures stockées, des déclencheurs, etc.
-
-**6. Méthode descendante et ascendante :**
-   - Appliquer la méthode descendante pour décomposer les tâches de conception en étapes plus simples.
-   - Intégrer des éléments agiles pour permettre des ajustements continus lors du développement.
-
-**7. Réalisation et tests :**
-   - Mettre en œuvre la base de données en respectant les spécifications de conception.
-   - Effectuer des tests unitaires et d'intégration pour garantir la qualité.
-
-**8. Maintenance et évolution :**
-   - Assurer la maintenance corrective et évolutive de la base de données en utilisant les principes de gestion de projet de MERISE.
-   - Intégrer des pratiques agiles pour répondre aux changements dans les exigences ou les besoins de l'entreprise.
 
 **Outils :**
 https://draw.io
