@@ -36,7 +36,7 @@
 | Sujet                                 | Contenu                                                                                                                |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Tableaux de bord de performance       | Explication sur la personnalisation des tableaux de bord en fonction des indicateurs clés pertinents pour le projet.  |
-| Analyse des tendances                 | Encouragement de l'utilisation d'outils d'analyse open source tels que [Google Analytics](https://analytics.google.com/) ou [Grafana](https://grafana.com/).                     |
+| Analyse des tendances                 | Encouragement de l'utilisation d'outils d'analyse tels que [Google Analytics](https://analytics.google.com/) ou [Grafana](https://grafana.com/).                     |
 | Réponse proactive                     | Inclusion de scénarios pratiques pour montrer comment les équipes peuvent anticiper et prévenir les problèmes potentiels.|
 
 **Module 6: Sauvegardes et gestion des données critiques**
