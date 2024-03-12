@@ -59,9 +59,8 @@
 | ISO/IEC 12207                              | Cadre pour les processus du cycle de vie du logiciel, incluant l'acquisition, le développement, l'exploitation et la maintenance, avec des lignes directrices.    |
 | Capability Maturity Model Integration      | Évaluation de la maturité des processus de développement logiciel de l'organisation sur une échelle de cinq niveaux, de "initial" à "optimizing".                 |
 | RGPD                                       | Protection des données personnelles des citoyens de l'UE, avec des exigences strictes en matière de confidentialité et de protection des données.                       |
-| Obligations réglementaires et légales      | Analyse
-
- des obligations légales en matière de gestion de crise, y compris le Référentiel Général de Sécurité (RGS), la Loi de Programmation Militaire (LPM), le Code de la Santé Publique, et d'autres lois pertinentes. |
+| Obligations réglementaires et légales      | Analyse des obligations légales en matière de gestion de crise, y compris le Référentiel Général de Sécurité (RGS), la Loi de Programmation Militaire (LPM), le Code de la Santé Publique, et d'autres lois pertinentes. |
 | Application des référentiels dans la gestion de crise | Intégration des principes des référentiels tels que le RGS et la LPM dans les processus de gestion de crise, y compris l'identification de la cellule de crise, les tests réguliers, et les mesures en cas de crise informatique majeure. |
 | Réflexion sur les normes ISO pour la continuité d'activité | Approfondissement des normes ISO 31000, ISO 22301, ISO 27001, et ISO 27035, mettant l'accent sur leur application dans la gestion de crise. |
 | Guide de continuité d'activité du SGDSN   | Analyse du guide publié par le SGDSN sur la continuité d’activité au sens général du terme. Plan de Continuité d'Activité (PCA) Plan de Reprise d'Activité (PRA). |
+
