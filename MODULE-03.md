@@ -122,6 +122,7 @@ En éliminant les fonctionnalités inutiles, le code devient plus épuré et mai
      - Exercice 1 - Création de classes : Développez des classes pour représenter des entités du monde réel.
      - Exercice 2 - Utilisation de l'encapsulation : Appliquez l'encapsulation pour protéger les données et le comportement des objets.
      - Exercice 3 - Héritage et polymorphisme : Implémentez l'héritage et le polymorphisme pour favoriser la flexibilité et la réutilisation du code.
+     - Exercice 4 - Interface : 
 
 4. **Principes SOLID :**
    * **Définition :** Les principes SOLID (SRP, OCP, LSP, ISP, DIP) visent à créer des systèmes flexibles, maintenables et évolutifs.
