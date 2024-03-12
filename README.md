@@ -8,7 +8,7 @@
 
 | Sujet                                | Contenu                                                                                          |
 |--------------------------------------|--------------------------------------------------------------------------------------------------|
-| Importance de la documentation UML   | Utilisation de la documentation générée par UML pour la compréhension du système par les intervenants. |
+| Importance de la documentation UML   | Utilisation de la documentation générée par UML, savoir modéliser une application et les implemntation à apporter. |
 
 **Module 3: Bonnes pratiques de développement**
 
