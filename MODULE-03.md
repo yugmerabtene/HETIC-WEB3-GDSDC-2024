@@ -158,4 +158,35 @@ En éliminant les fonctionnalités inutiles, le code devient plus épuré et mai
      - Duplication : Avoir du code dupliqué dans différentes parties de l'application peut rendre la maintenance plus difficile et augmenter le risque d'erreurs.
 
 En suivant le principe KISS et en évitant les pratiques identifiées par le principe STUPID, votre code sera plus simple et plus facile comprendre et  
-à implementer.
+à implementer.  
+
+### 6. Versioning :
+
+**Définition :** Le versioning est le processus de gestion et de suivi des différentes versions d'un logiciel ou d'un projet. Cela permet de garder une trace des modifications apportées au code source, de collaborer efficacement avec d'autres développeurs, et de revenir à des versions antérieures si nécessaire.
+
+**Exploration des solutions de versioning :**
+- **Git :** Système de contrôle de version décentralisé, populaire pour sa rapidité, sa flexibilité et sa prise en charge efficace des branches.
+- **Mercurial :** Également un système de contrôle de version décentralisé, similaire à Git mais avec quelques différences dans son fonctionnement et sa syntaxe.
+- **SVN (Subversion) :** Système de contrôle de version centralisé, qui suit l'historique des fichiers et des répertoires.
+
+![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png)
+*Logo de Git*
+
+![Mercurial](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercurial_logo.svg/200px-Mercurial_logo.svg.png)
+*Logo de Mercurial*
+
+![SVN](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Subversion_logo.svg/200px-Subversion_logo.svg.png)
+*Logo de SVN (Subversion)*
+
+### 7. Maintenance régulière du code :
+
+**Définition :** La maintenance régulière du code est une pratique essentielle pour garantir la qualité, la performance et la sécurité du logiciel sur le long terme. Cela implique la révision régulière du code, la correction des bogues, l'amélioration de la lisibilité et de la maintenabilité, ainsi que l'utilisation d'outils automatisés pour détecter les problèmes potentiels.
+
+**Pratiques de maintenance proactive :**
+- **Révision de code régulière :** Les membres de l'équipe examinent régulièrement le code les uns des autres pour identifier les erreurs, les problèmes de performance ou les opportunités d'amélioration.
+- **Utilisation d'outils automatisés :** Des outils tels que SonarQube sont utilisés pour analyser automatiquement le code source, détecter les violations des bonnes pratiques de programmation, les vulnérabilités de sécurité, les doublons de code et d'autres problèmes potentiels.
+
+En intégrant ces pratiques de maintenance régulière, les équipes de développement peuvent garantir la qualité et la stabilité du logiciel tout au long de son cycle de vie.
+
+![SonarQube](https://www.sonarqube.org/images/sonarqube-250.png)
+*Logo de SonarQube*
