@@ -142,7 +142,7 @@ En éliminant les fonctionnalités inutiles, le code devient plus épuré et mai
      - Exercice 2 - Amélioration de la flexibilité : Utilisez des design patterns pour rendre le code plus flexible face aux changements futurs.
      - Exercice 3 - Compréhension du code : Analysez et discutez les design patterns utilisés dans un code existant pour améliorer la compréhension.
     
-**Aller plus loin**
+**Aller plus loin:**
 1. **KISS (Keep It Simple, Stupid)** :
    - Ce principe préconise de concevoir des systèmes aussi simples que possible, sans ajouter de complexité inutile. Il encourage à favoriser la simplicité dans la conception, le développement et la maintenance des logiciels.
    - Exemple : Lors de la conception d'une nouvelle fonctionnalité pour un logiciel, les développeurs choisissent une approche simple et directe plutôt qu'une solution compliquée qui pourrait introduire des bogues et des difficultés de maintenance.
