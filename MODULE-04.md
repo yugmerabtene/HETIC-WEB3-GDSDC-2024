@@ -73,3 +73,6 @@ Voici des explications de chaque acronyme avec des exemples :
 5. **PDD (Pain-Driven Development)** :
    - **Définition :** Cette approche de développement se concentre sur la résolution de problèmes douloureux ou sur la réponse directe à des besoins critiques identifiés par les parties prenantes.
    - **Exemple :** Une entreprise qui a subi plusieurs violations de la sécurité décide de mettre en œuvre une approche de développement orientée vers la sécurité, où chaque décision de conception est motivée par la nécessité de renforcer la sécurité des applications.
+  
+Documentation :  
+http://igm.univ-mlv.fr/%7Edr/XPOSE2009/TDD/index.html#introduction
