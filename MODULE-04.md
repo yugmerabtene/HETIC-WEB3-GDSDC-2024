@@ -5,7 +5,7 @@
 Le Test Driven Development (TDD) est une méthode de développement où les tests sont écrits avant le code lui-même. Contrairement au Behaviour Driven Development (BDD) où le développement est guidé par des spécifications fonctionnelles, le TDD se concentre sur la validation des tests pour construire le logiciel. Cette approche favorise une meilleure qualité du produit final en garantissant que toutes les fonctionnalités sont validées par des tests unitaires.
 
 ## Fonctionnement du TDD
-![TDD_Global_Lifecycle](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/43ed0ca2-48db-4df0-9e8e-6308da16ced0)
+
 
 Le TDD suit un cycle défini :
 
@@ -20,6 +20,8 @@ Le TDD suit un cycle défini :
 5. **Réexécution des tests :** Assurez-vous que tous les tests, y compris les anciens, réussissent après la refactorisation.
 
 6. **Écriture d'un nouveau test :** Ajoutez un nouveau test pour une nouvelle fonctionnalité ou un nouveau comportement.
+
+![TDD_Global_Lifecycle](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/43ed0ca2-48db-4df0-9e8e-6308da16ced0)
 
 Ce cycle itératif s'appuie sur l'écriture de tests pour guider le développement. Il est souvent résumé par l'acronyme RGR (Red Green Refactor) : Rouge (test en échec), Vert (test réussi), Refactor (refactorisation du code).
 
