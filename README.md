@@ -34,9 +34,9 @@
 
 | Sujet                          | Contenu                                                                                                                 |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| Métriques du TDD | Présentation des principales métriques du Test Driven Development (TDD), telles que la couverture de code, le taux de réussite des tests et le temps moyen passé par itération. |
-| Outils de métriques | Exemples d'outils gratuits pour mesurer la couverture de code et la qualité des tests : JaCoCo pour Java, Istanbul pour JavaScript, et Coverage.py pour Python. |
-| Intégration des métriques | Guide sur l'intégration des métriques du TDD dans le processus de développement agile, mettant l'accent sur l'utilisation des données fournies par les métriques pour améliorer continuellement les processus de développement.  |
+| Métriques du TDD | Présentation des principales métriques du Test Driven Development (TDD), telles que la [couverture de code](https://www.jacoco.org/), le taux de réussite des tests et le temps moyen passé par itération. |
+| Outils de métriques | Exemples d'outils gratuits pour mesurer la couverture de code et la qualité des tests : [JaCoCo](https://www.jacoco.org/) pour Java, [Istanbul](https://istanbul.js.org/) pour JavaScript, [Coverage.py](https://coverage.readthedocs.io/en/coverage-5.5/) pour Python, [PHPUnit](https://phpunit.de/) pour PHP, et [JUnit](https://junit.org/junit5/) pour Java. |
+| Intégration des métriques | Guide sur l'intégration des métriques du TDD dans le processus de développement agile, mettant l'accent sur l'utilisation des données fournies par les métriques pour améliorer continuellement les processus de développement.  |  
 
 
 **Module 6: Sauvegardes et gestion des données critiques**
