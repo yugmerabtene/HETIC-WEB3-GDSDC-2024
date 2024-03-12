@@ -55,7 +55,7 @@
            return $sum / $count;
        }
        ```
-Bien sûr, reprenons chaque point avec les exemples de code en PHP :
+
 
 ### 2. Lean Code :
 
