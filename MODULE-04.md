@@ -48,3 +48,26 @@ Le TDD offre plusieurs avantages :
 - **Détection précoce des bugs :** En effectuant régulièrement des tests, les bugs sont détectés plus tôt dans le processus de développement, ce qui réduit les coûts de correction.
 
 Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses nombreux avantages en matière de qualité, de collaboration et de productivité dans le développement logiciel.
+
+**Aller plus loin :**  
+Voici des explications de chaque acronyme avec des exemples :
+
+1. **BDD (Behaviour-Driven Development)** :
+   - **Définition :** Le développement axé sur le comportement consiste à écrire des spécifications comportementales sous forme de scénarios compréhensibles par tous les intervenants, puis à les traduire en tests automatisés.
+   - **Exemple :** Dans un projet de développement d'une application de commerce électronique, au lieu d'écrire des tests comme "Vérifiez si l'utilisateur peut ajouter un article au panier", un scénario de BDD serait : "En tant qu'utilisateur connecté, je veux pouvoir ajouter un article à mon panier afin de procéder à l'achat".
+
+2. **DDD (Domain-Driven Design)** :
+   - **Définition :** Il s'agit d'une approche de conception logicielle basée sur un modèle métier profondément compris et reflété dans le code.
+   - **Exemple :** Dans un système de gestion de bibliothèque, les concepts du domaine comme "Livres", "Auteurs", "Emprunteurs" sont représentés en tant qu'entités dans le code avec des relations et des comportements spécifiques à leur domaine.
+
+3. **FDD (Feature-Driven Design)** :
+   - **Définition :** Cette méthode de développement se concentre sur la conception par fonctionnalité, en découpant le travail en fonctionnalités gérables et en les développant de manière itérative.
+   - **Exemple :** Dans le développement d'un système de gestion de projet, chaque fonctionnalité comme "Créer une tâche", "Assigner une tâche à un membre de l'équipe", etc., serait traitée comme une entité distincte avec sa propre itération de développement.
+
+4. **HDD (Hype-Driven Development)** :
+   - **Définition :** Ce type de développement se caractérise par l'adoption de technologies populaires ou à la mode sans évaluation approfondie de leur pertinence ou de leur valeur ajoutée.
+   - **Exemple :** Une entreprise décide d'adopter une nouvelle technologie de blockchain simplement parce qu'elle est largement médiatisée, sans avoir identifié de cas d'utilisation concrets pour son application dans leurs produits ou services.
+
+5. **PDD (Pain-Driven Development)** :
+   - **Définition :** Cette approche de développement se concentre sur la résolution de problèmes douloureux ou sur la réponse directe à des besoins critiques identifiés par les parties prenantes.
+   - **Exemple :** Une entreprise qui a subi plusieurs violations de la sécurité décide de mettre en œuvre une approche de développement orientée vers la sécurité, où chaque décision de conception est motivée par la nécessité de renforcer la sécurité des applications.
