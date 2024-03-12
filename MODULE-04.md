@@ -52,7 +52,6 @@ Le TDD offre plusieurs avantages :
 Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses nombreux avantages en matière de qualité, de collaboration et de productivité dans le développement logiciel.
 
 **Aller plus loin :**  
-Voici des explications de chaque acronyme avec des exemples :
 
 1. **BDD (Behaviour-Driven Development)** :
    - **Définition :** Le développement axé sur le comportement consiste à écrire des spécifications comportementales sous forme de scénarios compréhensibles par tous les intervenants, puis à les traduire en tests automatisés.
