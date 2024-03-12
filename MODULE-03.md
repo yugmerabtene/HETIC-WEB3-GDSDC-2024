@@ -142,4 +142,19 @@ En éliminant les fonctionnalités inutiles, le code devient plus épuré et mai
      - Exercice 2 - Amélioration de la flexibilité : Utilisez des design patterns pour rendre le code plus flexible face aux changements futurs.
      - Exercice 3 - Compréhension du code : Analysez et discutez les design patterns utilisés dans un code existant pour améliorer la compréhension.
     
-**RAJOUTER LES PRINCIPE KISS ET STUPID**
+**Aller plus loin**
+1. **KISS (Keep It Simple, Stupid)** :
+   - Ce principe préconise de concevoir des systèmes aussi simples que possible, sans ajouter de complexité inutile. Il encourage à favoriser la simplicité dans la conception, le développement et la maintenance des logiciels.
+   - Exemple : Lors de la conception d'une nouvelle fonctionnalité pour un logiciel, les développeurs choisissent une approche simple et directe plutôt qu'une solution compliquée qui pourrait introduire des bogues et des difficultés de maintenance.
+
+2. **STUPID (Singleton, Tight Coupling, Untestability, Premature Optimization, Indescriptive Naming, Duplication)** :
+   - Ce principe identifie certaines mauvaises pratiques en développement logiciel à éviter. Chaque lettre représente une pratique à éviter pour garantir la qualité du code.
+   - Exemple : 
+     - Singleton : Utiliser un singleton pour gérer l'état global d'une application plutôt que de passer les dépendances nécessaires explicitement peut entraîner des problèmes de testabilité et de maintenabilité.
+     - Couplage serré (Tight Coupling) : Créer des composants fortement couplés peut rendre le code difficile à modifier et à tester.
+     - Non testabilité (Untestability) : Écrire du code qui est difficile à tester avec des frameworks de test automatisés peut entraîner un manque de fiabilité du logiciel.
+     - Optimisation prématurée (Premature Optimization) : Optimiser le code avant que cela ne soit nécessaire peut entraîner une complexité inutile et rendre le code difficile à comprendre.
+     - Nommage indescriptif (Indescriptive Naming) : Utiliser des noms de variables, de fonctions ou de classes qui ne décrivent pas clairement leur but peut rendre le code difficile à comprendre pour les autres développeurs.
+     - Duplication : Avoir du code dupliqué dans différentes parties de l'application peut rendre la maintenance plus difficile et augmenter le risque d'erreurs.
+
+En suivant le principe KISS et en évitant les pratiques identifiées par le principe STUPID, les développeurs peuvent créer des logiciels plus simples, plus fiables et plus faciles à maintenir.
