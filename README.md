@@ -30,13 +30,14 @@
 | Avantages du TDD | Le TDD offre divers avantages, dont une meilleure qualité du produit, une intégration efficace avec d'autres méthodes de développement, une motivation accrue des développeurs et une détection précoce des bugs. |
 | Aller plus loin : BDD, DDD, FDD, HDD, PDD | Outre le TDD, d'autres approches de développement telles que le Behaviour-Driven Development (BDD), le Domain-Driven Design (DDD), le Feature-Driven Design (FDD), le Hype-Driven Development (HDD), et le Pain-Driven Development (PDD) peuvent être explorées pour enrichir la méthodologie de développement.|
 
-**Module 5: Utilisation de métriques et d'analyses pour la gestion de crise**
+**Module 5: Utilisation de métriques et d'analyses pour la gestion de crise**  
 
-| Sujet                                 | Contenu                                                                                                                |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Tableaux de bord de performance       | Explication sur la personnalisation des tableaux de bord en fonction des indicateurs clés pertinents pour le projet.  |
-| Analyse des tendances                 | Encouragement de l'utilisation d'outils d'analyse tels que [Grafana](https://grafana.com/) ou [Google Analytics](https://analytics.google.com/).                     |
-| Réponse proactive                     | Inclusion de scénarios pratiques pour montrer comment les équipes peuvent anticiper et prévenir les problèmes potentiels.|
+| Sujet                          | Contenu                                                                                                                 |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Métriques du TDD | Présentation des principales métriques du Test Driven Development (TDD), telles que la couverture de code, le taux de réussite des tests et le temps moyen passé par itération. |
+| Outils de métriques | Exemples d'outils gratuits pour mesurer la couverture de code et la qualité des tests : JaCoCo pour Java, Istanbul pour JavaScript, et Coverage.py pour Python. |
+| Intégration des métriques | Guide sur l'intégration des métriques du TDD dans le processus de développement agile, mettant l'accent sur l'utilisation des données fournies par les métriques pour améliorer continuellement les processus de développement.  |
+
 
 **Module 6: Sauvegardes et gestion des données critiques**
 
