@@ -16,8 +16,7 @@
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Clean code et lisibilité                    | Exercices pratiques pour mettre en pratique les principes du Clean Code.                                                                                                   |
 | SOLID principle et design patterns et refactoring          | Études de cas illustrant l'application de ces principes dans des situations réelles de développement.                                                                   |
-| Versioning                                  | Exploration de différentes solutions de versioning, telles que [Git](https://git-scm.com/), [Mercurial](https://www.mercurial-scm.org/), [SVN (Subversion)](https://subversion.apache.org/). |
-| Gestion de dette technique                  | Approches pour réduire la dette technique, telle que l'allocation de temps spécifique pour le remboursement.                                                              |
+| Versioning                                  | Exploration de différentes solutions de versioning, telles que [Git](https://git-scm.com/), [Mercurial](https://www.mercurial-scm.org/), [SVN (Subversion)](https://subversion.apache.org/). |                                                            |
 | Maintenance régulière du code               | Pratiques de maintenance proactive, comme la révision de code régulière et l'utilisation d'outils automatisés tels que [SonarQube](https://www.sonarqube.org/).                  |
 
 **Module 4: Tests avant déploiement et gestion de crise**
