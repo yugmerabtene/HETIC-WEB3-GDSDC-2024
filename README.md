@@ -24,10 +24,11 @@
 
 | Sujet                                      | Contenu                                                                                                                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tests unitaires, tests de non-régression, tests de sécurité | Utilisation d'outils  tels que [JUnit](https://junit.org/) pour les tests unitaires, [Zed Attack Proxy (ZAP)](https://www.zaproxy.org/) pour la sécurité, et d'autres équivalents.   |
-| Outils de détection des anomalies et des intrusions | Démonstrations pratiques sur la configuration et l'utilisation d'outils comme [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [ELK Stack](https://www.elastic.co/what-is/elk-stack), ainsi que [Splunk](https://www.splunk.com/) en version gratuite.  |
-| Outil de reporting d'incidents             | Personnalisation d'outils  tels que [Redmine](https://www.redmine.org/) ou [GitLab Issues](https://docs.gitlab.com/ee/user/project/issues/).                    |
-| Communication interne et externe pendant les crises | Pour la communication interne : Utilisation d'outils de messagerie instantanée comme [Slack](https://slack.com/), [Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software), et la mise en place de réunions régulières via [Zoom](https://zoom.us/). Pour la communication externe : Utilisation des réseaux sociaux (LinkedIn, Twitter, etc.), des communiqués de presse et la mise en place de pages dédiées sur le site web de l'entreprise.|
+| Définition et fonctionnement du TDD | Le Test Driven Development (TDD) est une méthode de développement où les tests sont écrits avant le code lui-même. Ce processus suit un cycle défini, allant de l'écriture des tests à la refactorisation du code.   |
+| TDD et tests unitaires | Le Test Driven Development est étroitement associé aux tests unitaires, où les tests sont écrits avant le code correspondant, favorisant ainsi une approche itérative et la détection précoce des erreurs.  |
+| ATDD (Acceptance TDD) | L'Acceptance Test Driven Development (ATDD) étend la méthode TDD aux tests d'acceptance ou tests métiers, encourageant ainsi une collaboration étroite entre les équipes fonctionnelles et techniques pour valider les exigences métier.  |
+| Avantages du TDD | Le TDD offre divers avantages, dont une meilleure qualité du produit, une intégration efficace avec d'autres méthodes de développement, une motivation accrue des développeurs et une détection précoce des bugs. |
+| Aller plus loin : BDD, DDD, FDD, HDD, PDD | Outre le TDD, d'autres approches de développement telles que le Behaviour-Driven Development (BDD), le Domain-Driven Design (DDD), le Feature-Driven Design (FDD), le Hype-Driven Development (HDD), et le Pain-Driven Development (PDD) peuvent être explorées pour enrichir la méthodologie de développement.|
 
 **Module 5: Utilisation de métriques et d'analyses pour la gestion de crise**
 
