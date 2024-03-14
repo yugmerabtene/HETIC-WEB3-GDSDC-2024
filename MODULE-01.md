@@ -75,6 +75,39 @@ Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus
    - **Fonctionnement :** Une fois que le code a passé avec succès les étapes de l'intégration continue, le processus de développement continu prend le relais. Cela peut inclure l'automatisation des tests supplémentaires, la création de packages d'installation, et éventuellement le déploiement sur des serveurs de production ou d'autres environnements.
    - **Avantages :** Le développement continu réduit les délais de mise sur le marché, minimise les erreurs liées au déploiement manuel, et offre une visibilité accrue sur l'état du code à chaque étape du processus de développement.
 
+3. **DevOps:**
+   ![solution-s-curve](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/55376f00-a0d2-4f77-b3b1-f6d765db0e9e)
+
+   La méthodologie DevOps est une approche qui vise à intégrer étroitement le développement logiciel (Dev) avec l'exploitation des systèmes informatiques (Ops) dans le but d'améliorer la collaboration et d'optimiser les processus de livraison logicielle. Voici un résumé des principes clés et des pratiques de la méthodologie DevOps :
+
+1. **Culture de collaboration :**
+   - Encourage la communication et la collaboration entre les équipes de développement et d'exploitation.
+   - Favorise une mentalité axée sur le partage des responsabilités et la résolution collective des problèmes.
+
+2. **Automatisation :**
+   - Automatise autant que possible les processus de développement, de test et de déploiement pour accélérer la livraison des logiciels.
+   - Utilise des outils d'automatisation pour la gestion de l'infrastructure, la configuration et le provisionnement des environnements.
+
+3. **Pratiques Agile :**
+   - Adopte les principes de développement Agile pour une livraison continue et itérative des fonctionnalités.
+   - Favorise la flexibilité et la réactivité aux changements grâce à des cycles de développement courts.
+
+4. **Infrastructure as Code (IaC) :**
+   - Gère l'infrastructure informatique à l'aide de fichiers de configuration, facilitant ainsi la reproductibilité et la gestion des environnements.
+   - Permet de déployer et de gérer l'infrastructure de manière cohérente à travers différents environnements (développement, test, production).
+
+5. **Continuous Integration (CI) :**
+   - Intègre régulièrement les modifications du code source dans un référentiel partagé.
+   - Automatise les tests unitaires et d'intégration pour assurer la qualité du code à chaque itération.
+
+6. **Continuous Deployment (CD) :**
+   - Automatise le processus de déploiement des applications dans des environnements de production ou de pré-production à chaque fois qu'une nouvelle version du logiciel est prête.
+   - Favorise des déploiements fréquents et fiables avec un risque réduit.
+
+7. **Monitoring et Feedback :**
+   - Met en place des outils de surveillance pour suivre les performances des applications et des infrastructures en temps réel.
+   - Recueille les commentaires des utilisateurs et des opérateurs pour identifier rapidement les problèmes et améliorer les processus.
+
 
 Scrum est un cadre de travail agile utilisé pour gérer et développer des produits complexes. Voici les principaux concepts et processus de Scrum :  
 
