@@ -80,7 +80,7 @@ Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses
    ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/2989c24e-1571-44eb-8778-246350534179)
 
 
-5. **PDD (Pain-Driven Development)** :
+5. **PDD (Pain-Driven Development ou Panic-Driven Design)** :
    - **Définition :** Cette approche de développement se concentre sur la résolution de problèmes douloureux ou sur la réponse directe à des besoins critiques identifiés par les parties prenantes.
    - **Exemple :** Une entreprise qui a subi plusieurs violations de la sécurité décide de mettre en œuvre une approche de développement orientée vers la sécurité, où chaque décision de conception est motivée par la nécessité de renforcer la sécurité des applications.
 
@@ -145,4 +145,6 @@ Pour mettre en œuvre efficacement le Test Driven Development (TDD) ainsi que d'
 
 Documentation :  
 http://igm.univ-mlv.fr/%7Edr/XPOSE2009/TDD/index.html#introduction  
-https://www.all4test.fr/blog-du-testeur/test-de-non-regression-tnr-guide-complet/  
+https://www.all4test.fr/blog-du-testeur/test-de-non-regression-tnr-guide-complet/    
+https://mikepumper.wordpress.com/2014/12/17/panic-driven-development-pdd/  
+https://weeklydevtips.com/episodes/010  
