@@ -64,10 +64,15 @@ Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses
 2. **DDD (Domain-Driven Design)** :
    - **Définition :** Il s'agit d'une approche de conception logicielle basée sur un modèle métier profondément compris et reflété dans le code.
    - **Exemple :** Dans un système de gestion de bibliothèque, les concepts du domaine comme "Livres", "Auteurs", "Emprunteurs" sont représentés en tant qu'entités dans le code avec des relations et des comportements spécifiques à leur domaine.
+   - ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/352ce960-be49-4492-99b0-6f0acbb2abad)
+
 
 3. **FDD (Feature-Driven Design)** :
    - **Définition :** Cette méthode de développement se concentre sur la conception par fonctionnalité, en découpant le travail en fonctionnalités gérables et en les développant de manière itérative.
    - **Exemple :** Dans le développement d'un système de gestion de projet, chaque fonctionnalité comme "Créer une tâche", "Assigner une tâche à un membre de l'équipe", etc., serait traitée comme une entité distincte avec sa propre itération de développement.
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/47bb6cd9-9d03-456a-b61c-c175becaa276)
+
+
 
 4. **HDD (Hype-Driven Development)** :
    - **Définition :** Ce type de développement se caractérise par l'adoption de technologies populaires ou à la mode sans évaluation approfondie de leur pertinence ou de leur valeur ajoutée.
