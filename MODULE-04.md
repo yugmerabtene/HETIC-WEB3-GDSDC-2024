@@ -33,7 +33,9 @@ Contrairement au processus traditionnel où les développeurs écrivent d'abord 
 
 ## ATDD (Acceptance TDD)
 
-L'Acceptance Test Driven Development (ATDD) étend la méthode TDD aux tests d'acceptance ou tests métiers. Dans ce cas, à l'instar du TDD, les tests d'acceptance sont écrits avant que le code de la fonctionnalité ne soit développé. Cela encourage une collaboration étroite entre les équipes fonctionnelles et techniques pour assurer que les exigences métier sont correctement intégrées dans les tests.
+L'Acceptance Test Driven Development (ATDD) étend la méthode TDD aux tests d'acceptance ou tests métiers. Dans ce cas, à l'instar du TDD, les tests d'acceptance sont écrits avant que le code de la fonctionnalité ne soit développé. Cela encourage une collaboration étroite entre les équipes fonctionnelles et techniques pour assurer que les exigences métier sont correctement intégrées dans les tests.  
+![510354_2_En_1_Fig3_HTML](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a6ccbe05-fa92-49c7-8317-f51ac1327a83)
+
 
 ## Avantages du TDD
 
