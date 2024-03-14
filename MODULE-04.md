@@ -27,9 +27,9 @@ Ce cycle itératif s'appuie sur l'écriture de tests pour guider le développeme
 
 ![tdd](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/ebb9627a-c3af-4a2b-9cf7-6d4d9a3be0de)
 
-## TDD et tests unitaires
+## TDD et tests 
 
-Le TDD est couramment associé aux tests unitaires. Contrairement au processus traditionnel où les développeurs écrivent d'abord du code puis des tests, le TDD inverse cet ordre, ce qui oblige les développeurs à écrire des tests pour chaque fonctionnalité avant même d'écrire le code correspondant.
+Contrairement au processus traditionnel où les développeurs écrivent d'abord du code puis des tests, le TDD inverse cet ordre, ce qui oblige les développeurs à écrire des tests pour chaque fonctionnalité avant même d'écrire le code correspondant.
 
 ## ATDD (Acceptance TDD)
 
