@@ -133,4 +133,5 @@ Pour mettre en œuvre efficacement le Test Driven Development (TDD) ainsi que d'
   - Exemple concret : Dans un projet de développement d'une application mobile, Gherkin/Cucumber peut être utilisé pour définir des scénarios d'utilisation en langage naturel et les exécuter comme des tests automatisés.
 
 Documentation :  
-http://igm.univ-mlv.fr/%7Edr/XPOSE2009/TDD/index.html#introduction
+http://igm.univ-mlv.fr/%7Edr/XPOSE2009/TDD/index.html#introduction  
+https://www.all4test.fr/blog-du-testeur/test-de-non-regression-tnr-guide-complet/  
