@@ -64,7 +64,7 @@ Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus
 
 1. **Intégration Continue (Continuous Integration - CI) :**
    - **Objectif :** L'intégration continue vise à automatiser le processus d'intégration du code produit par différents développeurs dans un référentiel partagé. L'objectif principal est de détecter et de résoudre les conflits de code le plus tôt possible.  
-    ![CI-CD-fonctionnement-1024x470](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/21e44984-d27e-4cc4-aff6-dbc4d0074548)  
+    
 
    - **Fonctionnement :** Les développeurs travaillent sur leurs branches de code respectives. Régulièrement, chaque modification est intégrée dans une branche principale (généralement la branche "master" ou "main"). À chaque intégration, un processus d'automatisation est déclenché, comprenant la compilation du code, l'exécution de tests automatisés et éventuellement le déploiement sur un environnement de test.
    - **Avantages :** L'intégration continue permet de détecter rapidement les erreurs de code, de minimiser les conflits d'intégration, d'améliorer la collaboration entre les développeurs et d'assurer une base de code stable.
