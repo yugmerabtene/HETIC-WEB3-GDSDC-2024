@@ -76,7 +76,8 @@ Les frameworks agiles, comme Scrum, Kanban, ou XP, sont à la base des processus
    - **Avantages :** Le développement continu réduit les délais de mise sur le marché, minimise les erreurs liées au déploiement manuel, et offre une visibilité accrue sur l'état du code à chaque étape du processus de développement.
 
 3. **DevOps:**
-   ![solution-s-curve](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/55376f00-a0d2-4f77-b3b1-f6d765db0e9e)
+   
+   ![solution-s-curve](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/55376f00-a0d2-4f77-b3b1-f6d765db0e9e)  
 
    La méthodologie DevOps est une approche qui vise à intégrer étroitement le développement logiciel (Dev) avec l'exploitation des systèmes informatiques (Ops) dans le but d'améliorer la collaboration et d'optimiser les processus de livraison logicielle. Voici un résumé des principes clés et des pratiques de la méthodologie DevOps :
 
