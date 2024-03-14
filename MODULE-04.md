@@ -95,7 +95,7 @@ Pour mettre en œuvre efficacement le Test Driven Development (TDD) ainsi que d'
 - **Cypress** : Pour les tests end-to-end et les tests d'intégration de l'interface utilisateur web.
   - Exemple concret : Dans une application web de gestion de tâches, Cypress peut être utilisé pour tester la création, la modification et la suppression de tâches par les utilisateurs.
 
-### 3. Tests de régression :
+### 3. Tests de non-régression :
 
 **Outils de tests de régression** :
 
