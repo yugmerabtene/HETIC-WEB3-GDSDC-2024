@@ -19,7 +19,7 @@
 | Versioning                                | Exploration de différentes solutions de versioning, telles que [Git](https://git-scm.com/), [Mercurial](https://www.mercurial-scm.org/), [SVN (Subversion)](https://subversion.apache.org/). |
 | Maintenance régulière du code             | Pratiques de maintenance proactive, comme la révision de code régulière et l'utilisation d'outils automatisés tels que [SonarQube](https://www.sonarqube.org/).   |
 
-**Module 4: Tests avant déploiement et gestion de crise**
+**Module 4: Tests avant déploiement**
 
 | Sujet                                      | Contenu                                                                                                     |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------|
