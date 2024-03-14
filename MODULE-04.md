@@ -97,7 +97,7 @@ Pour mettre en œuvre efficacement le Test Driven Development (TDD) ainsi que d'
 
 ### 3. Tests de non-régression :
 
-**Outils de tests de régression** :
+**Outils de tests de non-régression** :
 
 - **JUnit/TestNG** : Outre les tests unitaires, ces frameworks peuvent également être utilisés pour exécuter des suites de tests de régression.
   - Exemple concret : Dans un projet Java, une suite de tests de régression avec JUnit/TestNG peut être configurée pour vérifier que les fonctionnalités existantes ne sont pas cassées par de nouvelles modifications du code.
