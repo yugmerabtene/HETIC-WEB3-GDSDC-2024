@@ -77,6 +77,8 @@ Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses
 4. **HDD (Hype-Driven Development)** :
    - **Définition :** Ce type de développement se caractérise par l'adoption de technologies populaires ou à la mode sans évaluation approfondie de leur pertinence ou de leur valeur ajoutée.
    - **Exemple :** Une entreprise décide d'adopter une nouvelle technologie de blockchain simplement parce qu'elle est largement médiatisée, sans avoir identifié de cas d'utilisation concrets pour son application dans leurs produits ou services.
+   ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/2989c24e-1571-44eb-8778-246350534179)
+
 
 5. **PDD (Pain-Driven Development)** :
    - **Définition :** Cette approche de développement se concentre sur la résolution de problèmes douloureux ou sur la réponse directe à des besoins critiques identifiés par les parties prenantes.
