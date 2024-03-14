@@ -83,8 +83,11 @@ Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses
 5. **PDD (Panic-Driven Design et Pain-Driven Development)** :
    - **Définition :** Cette approche de développement se concentre sur la résolution de problèmes douloureux ou sur la réponse directe à des besoins critiques identifiés par les parties prenantes.
    - **Exemple :** Une entreprise qui a subi plusieurs violations de la sécurité décide de mettre en œuvre une approche de développement orientée vers la sécurité, où chaque décision de conception est motivée par la nécessité de renforcer la sécurité des applications.
+![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/5f0cb694-79a3-4091-99f8-4a6688c4f4a3)
 
-Pour mettre en œuvre efficacement le Test Driven Development (TDD) ainsi que d'autres types de tests tels que les tests unitaires, fonctionnels, de régression, d'intégration, de sécurité, etc., plusieurs outils logiciels sont disponibles. Voici une liste d'outils populaires pour chaque type de test, ainsi que des exemples concrets d'utilisation :
+
+
+Pour mettre en œuvre efficacement le Test Driven Development (TDD) ainsi que d'autres types de tests tels que les tests unitaires, fonctionnels, de non-régression, d'intégration, de sécurité, etc., plusieurs outils logiciels sont disponibles. Voici une liste d'outils populaires pour chaque type de test, ainsi que des exemples concrets d'utilisation :
 
 ### 1. Test Driven Development (TDD) :
 
