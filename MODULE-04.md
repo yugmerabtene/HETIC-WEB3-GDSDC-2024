@@ -34,7 +34,7 @@ Contrairement au processus traditionnel où les développeurs écrivent d'abord 
 ## ATDD (Acceptance TDD)
 
 L'Acceptance Test Driven Development (ATDD) étend la méthode TDD aux tests d'acceptance ou tests métiers. Dans ce cas, à l'instar du TDD, les tests d'acceptance sont écrits avant que le code de la fonctionnalité ne soit développé. Cela encourage une collaboration étroite entre les équipes fonctionnelles et techniques pour assurer que les exigences métier sont correctement intégrées dans les tests.  
-![510354_2_En_1_Fig3_HTML](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a6ccbe05-fa92-49c7-8317-f51ac1327a83)
+![510354_2_En_1_Fig3_HTML](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/a6ccbe05-fa92-49c7-8317-f51ac1327a83)  
 
 
 ## Avantages du TDD
@@ -58,6 +58,8 @@ Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses
 1. **BDD (Behaviour-Driven Development)** :
    - **Définition :** Le développement axé sur le comportement consiste à écrire des spécifications comportementales sous forme de scénarios compréhensibles par tous les intervenants, puis à les traduire en tests automatisés.
    - **Exemple :** Dans un projet de développement d'une application de commerce électronique, au lieu d'écrire des tests comme "Vérifiez si l'utilisateur peut ajouter un article au panier", un scénario de BDD serait : "En tant qu'utilisateur connecté, je veux pouvoir ajouter un article à mon panier afin de procéder à l'achat".
+![1 XefJ7lpQx3DjcKbEb66bBA](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/2912929f-785f-449a-beb4-28a2fbbe4904)  
+
 
 2. **DDD (Domain-Driven Design)** :
    - **Définition :** Il s'agit d'une approche de conception logicielle basée sur un modèle métier profondément compris et reflété dans le code.
