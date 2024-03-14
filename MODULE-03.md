@@ -157,8 +157,7 @@ En éliminant les fonctionnalités inutiles, le code devient plus épuré et mai
      - Nommage indescriptif (Indescriptive Naming) : Utiliser des noms de variables, de fonctions ou de classes qui ne décrivent pas clairement leur but peut rendre le code difficile à comprendre pour les autres développeurs.
      - Duplication : Avoir du code dupliqué dans différentes parties de l'application peut rendre la maintenance plus difficile et augmenter le risque d'erreurs.
 
-En suivant le principe KISS et en évitant les pratiques identifiées par le principe STUPID, votre code sera plus simple et plus facile comprendre et  
-à implementer.  
+En suivant le principe KISS et en évitant les pratiques identifiées par le principe STUPID, votre code sera plus simple et plus facile à comprendre et à implementer.  
 
 ### 6. Versioning :
 
