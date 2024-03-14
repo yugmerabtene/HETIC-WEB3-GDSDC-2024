@@ -83,7 +83,22 @@ Le TDD, bien qu'exigeant une adaptation initiale, est largement adopté pour ses
 5. **PDD (Panic-Driven Design et Pain-Driven Development)** :
    - **Définition :** Cette approche de développement se concentre sur la résolution de problèmes douloureux ou sur la réponse directe à des besoins critiques identifiés par les parties prenantes.
    - **Exemple :** Une entreprise qui a subi plusieurs violations de la sécurité décide de mettre en œuvre une approche de développement orientée vers la sécurité, où chaque décision de conception est motivée par la nécessité de renforcer la sécurité des applications.
-![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/5f0cb694-79a3-4091-99f8-4a6688c4f4a3)
+
+6. **Les principes Yaggi**
+Les principes YAGNI (You Aren't Gonna Need It) sont des principes de développement logiciel qui encouragent la simplicité dans la conception et la mise en œuvre de logiciels. Voici une explication succincte de ces principes :
+
+1. **You**: « Vous », l'équipe de développement.
+2. **Aren't**: Ne sont pas.
+3. **Gonna**: Allons.
+4. **Need**: Besoin.
+5. **It**: Cela.
+
+Ainsi, « Vous n'allez pas en avoir besoin » signifie littéralement que vous ne devriez pas ajouter de fonctionnalités ou de complexité au logiciel avant qu'elles ne soient absolument nécessaires. Les principes YAGNI visent à éviter les excès de conception et de fonctionnalités qui ne sont pas requis pour le moment, car ils peuvent ajouter de la complexité inutile au code et rendre le système plus difficile à maintenir.
+
+Les principes YAGNI encouragent les développeurs à se concentrer sur les besoins actuels du logiciel plutôt que d'essayer de prédire les besoins futurs et d'ajouter des fonctionnalités qui pourraient ne jamais être utilisées. Cela favorise une approche itérative du développement, où les fonctionnalités sont ajoutées au fur et à mesure des besoins réels.
+
+ ![image](https://github.com/yugmerabtene/HETIC-WEB3-GDSDC-2023/assets/3670077/4fbc95b1-fe49-4e88-a856-1c8beca7403d)
+
 
 
 
